@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "🔥 Jack <> Troy <> Nik TODAY Wed 4/22 2:30pm ET — LIVE in 4.5h. UnKommon x Zurp agreement sent 4/21 (Miami expansion — monitor signature). Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
-    "alert": "🔥 TODAY 2:30pm: Jack <> Troy <> Nik call — LIVE in 4.5h",
+    "currentStatus": "🔥 Jack <> Troy <> Nik TODAY Wed 4/22 2:00pm ET — LIVE in 2h. UnKommon x Zurp agreement sent 4/21 (Miami expansion — monitor signature). Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
+    "alert": "🔥 TODAY 2:00pm: Jack <> Troy <> Nik call — LIVE in 2h",
     "recentActivity": [
       {
         "date": "4/22",
-        "text": "🔥 Jack <> Troy <> Nik TODAY 2:30pm ET — LIVE in 4.5h"
+        "text": "🔥 Jack <> Troy <> Nik TODAY 2:00pm ET — LIVE in 2h"
       },
       {
         "date": "4/22",
@@ -94,8 +94,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "TODAY Wed 4/22 2:30pm",
-        "event": "🔥 Jack <> Troy <> Nik — LIVE in 4.5h"
+        "date": "TODAY Wed 4/22 2:00pm",
+        "event": "🔥 Jack <> Troy <> Nik — LIVE in 2h"
       }
     ],
     "links": [
