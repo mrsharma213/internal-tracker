@@ -2,12 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "🔥 Jack <> Troy <> Nik TODAY Wed 4/22 2:00pm ET — LIVE in 2h. UnKommon x Zurp agreement sent 4/21 (Miami expansion — monitor signature). Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
-    "alert": "🔥 TODAY 2:00pm: Jack <> Troy <> Nik call — LIVE in 2h",
+    "currentStatus": "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET Wed 4/22 — recap/next steps pending. UnKommon x Zurp agreement sent 4/21 (Miami expansion — monitor signature). Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
+    "alert": null,
     "recentActivity": [
       {
         "date": "4/22",
-        "text": "🔥 Jack <> Troy <> Nik TODAY 2:00pm ET — LIVE in 2h"
+        "text": "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET — recap pending"
       },
       {
         "date": "4/22",
@@ -95,7 +95,7 @@
     "upcomingEvents": [
       {
         "date": "TODAY Wed 4/22 2:00pm",
-        "event": "🔥 Jack <> Troy <> Nik — LIVE in 2h"
+        "event": "✅ Jack <> Troy <> Nik — WRAPPED"
       }
     ],
     "links": [
@@ -507,8 +507,12 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "✅ After Ours Sync 4/21 wrapped. ✅ Call Alec/Afters 4/21 8pm wrapped. Awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "currentStatus": "🔴 AO Studio Time 5pm TONIGHT — LIVE in 1h + 7pm session (in 3h). After Ours Sync 4/21 wrapped. Call Alec/Afters 4/21 8pm wrapped. Awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
     "recentActivity": [
+      {
+        "date": "4/22",
+        "text": "🔴 AO Studio Time 5pm — LIVE in 1h + 7pm session"
+      },
       {
         "date": "4/21",
         "text": "✅ After Ours Sync WRAPPED 2:00-3:00pm ET — Fireflies recap delivered 2:51pm"
@@ -566,6 +570,14 @@
     ],
     "upcomingEvents": [
       {
+        "date": "TONIGHT 4/22 5pm",
+        "event": "🔴 AO Studio Time — LIVE in 1h"
+      },
+      {
+        "date": "TONIGHT 4/22 7pm",
+        "event": "🎧 AO Studio Time (2nd session)"
+      },
+      {
         "date": "This week",
         "event": "Pull videographer assets from Somewhere Nowhere NYC show"
       },
@@ -598,8 +610,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-20",
-    "alert": "Pull videographer assets + brand voice brief still owed to Brandon."
+    "updated": "2026-04-22",
+    "alert": "🔴 AO Studio Time 5pm — LIVE in 1h + 7pm session"
   },
   {
     "name": "Lunar Solar Group (CGO)",
