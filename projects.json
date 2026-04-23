@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET Wed 4/22 — recap/next steps pending. UnKommon x Zurp agreement sent 4/21 (Miami expansion — monitor signature). Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
-    "alert": null,
+    "currentStatus": "Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending Day 1. UnKommon x Zurp agreement (Miami expansion) — monitor signature. Rameez pitching Common Country Bar (Noah). Indoor unit live. Weather-proof outdoor unit 6-week lead. 50/50 rev split.",
+    "alert": "Recap + next steps from Jack call owed — Day 1",
     "recentActivity": [
+      {
+        "date": "4/23",
+        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1"
+      },
       {
         "date": "4/22",
         "text": "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET — recap pending"
@@ -94,8 +98,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "TODAY Wed 4/22 2:00pm",
-        "event": "✅ Jack <> Troy <> Nik — WRAPPED"
+        "date": "Wed 4/22 2pm",
+        "event": "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)"
       }
     ],
     "links": [
@@ -128,7 +132,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-22"
+    "updated": "2026-04-23"
   },
   {
     "name": "Authentiq",
@@ -507,11 +511,15 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "🔴 AO Studio Time 5pm TONIGHT — LIVE in 1h + 7pm session (in 3h). After Ours Sync 4/21 wrapped. Call Alec/Afters 4/21 8pm wrapped. Awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "currentStatus": "Studio sessions 4/22 both wrapped (5-6pm + 7-10pm). Zagged Dinner 4/22 wrapped w/ Simon Wool. Post-show Day 5 from Somewhere Nowhere NYC — still awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
+        "date": "4/23",
+        "text": "Post-show Day 5 — pro media/videographer assets still owed"
+      },
+      {
         "date": "4/22",
-        "text": "🔴 AO Studio Time 5pm — LIVE in 1h + 7pm session"
+        "text": "✅ AO Studio 5-6pm + 7-10pm both WRAPPED • Zagged Dinner 8-10:15pm (Simon Wool)"
       },
       {
         "date": "4/21",
@@ -570,12 +578,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "TONIGHT 4/22 5pm",
-        "event": "🔴 AO Studio Time — LIVE in 1h"
-      },
-      {
-        "date": "TONIGHT 4/22 7pm",
-        "event": "🎧 AO Studio Time (2nd session)"
+        "date": "Wed 4/22",
+        "event": "✅ AO Studio Time (5-6pm + 7-10pm) — WRAPPED"
       },
       {
         "date": "This week",
@@ -610,8 +614,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-22",
-    "alert": "🔴 AO Studio Time 5pm — LIVE in 1h + 7pm session"
+    "updated": "2026-04-23",
+    "alert": "Brand voice brief owed to Brandon • videographer assets still to pull"
   },
   {
     "name": "Lunar Solar Group (CGO)",
