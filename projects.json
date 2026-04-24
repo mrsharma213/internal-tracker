@@ -2,12 +2,20 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (53m out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
-    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (53m) • Alec Docusign 22h+ • Jack recap Day 2",
+    "currentStatus": "5:30-6:30pm Amoria/Cordell meet live with Nik, Troy, Dil, Rameez, Jim, Gisela, Frank. Alec Docusign still pending after 4/23 view. Jack recap still overdue.",
+    "alert": "🔥 Amoria/Cordell meet live until 6:30pm • Alec signature pending",
     "recentActivity": [
       {
         "date": "4/24",
-        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (53m out)"
+        "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
+      },
+      {
+        "date": "4/24",
+        "text": "📅 Calendar changed from Cordell<>Troy<>Nik to Amoria meet; capture post-call next steps"
+      },
+      {
+        "date": "4/24",
+        "text": "🔥 NOW 5pm ET: Cordell <> Troy <> Nik — LIVE"
       },
       {
         "date": "4/24",
@@ -110,8 +118,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 TODAY Fri 4/24 5pm (1h)",
-        "event": "Cordell <> Troy <> Nik"
+        "date": "🔥 NOW 5pm Fri 4/24",
+        "event": "Cordell <> Troy <> Nik — LIVE"
       },
       {
         "date": "Wed 4/22 2pm",
@@ -148,7 +156,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-23"
+    "updated": "2026-04-24T17:00"
   },
   {
     "name": "Authentiq",
@@ -226,8 +234,12 @@
   {
     "name": "Harper Wilde",
     "desc": "Client - CRO/paid media. Marpipe creative testing ($1,500/mo, 1-yr rate lock).",
-    "currentStatus": "🔴 TODAY 4/24: 5 unread Slack msgs (3:19pm) + Lindsay Gatto email 'Update' 1:25pm IMPORTANT — both still unread, escalating. Marpipe × Jainy (Love Wellness) intro thread now at 14 msgs.",
+    "currentStatus": "No new Slack activity in key-channel scan since 4pm. Prior Lindsay Gatto “Update” email + unread Slack escalation remain unresolved unless separately handled.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "📭 6:01pm Slack key-channel scan quiet; prior escalation still needs manual closeout check"
+      },
       {
         "date": "4/24",
         "text": "🔴 5 unread Slack msgs in Harper Wilde channel (3:19pm)"
@@ -359,8 +371,12 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Concept and formulation research phase",
+    "currentStatus": "No fresh kids-vitamin-specific data in this refresh. Separate Pharmacy TB created a peptide/pharmacy ops action: Nik owes peptide offerings list to Myles.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "🎙️ Pharmacy TB adjacent note: pharmacy ops can source/repackage/ship peptides; Nik owes peptide list to Myles"
+      },
       {
         "date": "3/14",
         "text": "Project scoped - 4 month target timeline set"
@@ -1083,3 +1099,4 @@
     "updated": "2026-03-10"
   }
 ]
+
