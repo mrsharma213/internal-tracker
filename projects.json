@@ -2,16 +2,24 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "📅 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (5h out). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (18h+). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
-    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (5h) • Alec Docusign pending 18h+",
+    "currentStatus": "🔥 TODAY Fri 4/24 5pm ET: Cordell <> Troy <> Nik (1h out). Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier). Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+). Jack <> Troy <> Nik recap Day 2 overdue. UnKommon x Zurp (Miami) signature monitor. Indoor unit live. 50/50 rev split.",
+    "alert": "🔥 Cordell<>Troy<>Nik TODAY 5pm (2h) • Alec Docusign 21h+ • Jack recap Day 2",
     "recentActivity": [
       {
-        "date": "4/23",
-        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature pending"
+        "date": "4/24",
+        "text": "🔥 TODAY 5pm ET: Cordell <> Troy <> Nik (1h out)"
+      },
+      {
+        "date": "4/24",
+        "text": "💸 Mercury 2:27pm: Minul $240 wire → Zhangjiagang Melcorp (hardware supplier)"
       },
       {
         "date": "4/23",
-        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 1"
+        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (20h+)"
+      },
+      {
+        "date": "4/23",
+        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 2 overdue"
       },
       {
         "date": "4/22",
@@ -101,6 +109,10 @@
       }
     ],
     "upcomingEvents": [
+      {
+        "date": "🔥 TODAY Fri 4/24 5pm (1h)",
+        "event": "Cordell <> Troy <> Nik"
+      },
       {
         "date": "Wed 4/22 2pm",
         "event": "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)"
@@ -214,8 +226,16 @@
   {
     "name": "Harper Wilde",
     "desc": "Client - CRO/paid media. Marpipe creative testing ($1,500/mo, 1-yr rate lock).",
-    "currentStatus": "6 unread Slack messages in Harper Wilde channel (4/3). Marketing emails active - Invisible Underwear launch (4/4), Perfect Lace (4/3). Marpipe × Jainy (Love Wellness) intro thread now at 14 messages. Amazon Big Spring Sale completed.",
+    "currentStatus": "🔴 TODAY 4/24: 5 unread Slack msgs (3:19pm) + Lindsay Gatto email 'Update' 1:25pm IMPORTANT — both still unread, escalating. Marpipe × Jainy (Love Wellness) intro thread now at 14 msgs.",
     "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "🔴 5 unread Slack msgs in Harper Wilde channel (3:19pm)"
+      },
+      {
+        "date": "4/24",
+        "text": "📧 Lindsay Gatto 'Update' 1:25pm — IMPORTANT, still unread"
+      },
       {
         "date": "4/4",
         "text": "Harper Wilde marketing email: Invisible Underwear launch"
@@ -279,8 +299,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-04",
-    "alert": "6 unread Slack messages in Harper Wilde channel"
+    "updated": "2026-04-24",
+    "alert": "🔴 5 unread Slack + Lindsay Gatto 'Update' IMPORTANT — both still open TODAY 4/24"
   },
   {
     "name": "GoodOnya Organic",
