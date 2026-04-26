@@ -2,8 +2,8 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "5:30-6:30pm Amoria/Cordell meet live with Nik, Troy, Dil, Rameez, Jim, Gisela, Frank. Alec Docusign still pending after 4/23 view. Jack recap still overdue.",
-    "alert": "🔥 Amoria/Cordell meet live until 6:30pm • Alec signature pending",
+    "currentStatus": "Sun 4/26 8am quiet. Amoria meet WRAPPED Fri 4/24 5:30-6:30pm — capture post-call next steps. Alec Docusign still pending after 4/23 view (Day 2). Jack recap still overdue (Day 3).",
+    "alert": "📝 Amoria meet recap owed • Alec signature pending Day 2 • Jack recap overdue Day 3",
     "recentActivity": [
       {
         "date": "4/24",
@@ -118,8 +118,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "🔥 NOW 5pm Fri 4/24",
-        "event": "Cordell <> Troy <> Nik — LIVE"
+        "date": "✅ Fri 4/24 5:30pm",
+        "event": "Amoria/Cordell meet — WRAPPED (recap owed)"
       },
       {
         "date": "Wed 4/22 2pm",
@@ -156,7 +156,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-24T17:00"
+    "updated": "2026-04-26T08:00"
   },
   {
     "name": "Authentiq",
@@ -551,7 +551,7 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Studio sessions 4/22 both wrapped (5-6pm + 7-10pm). Zagged Dinner 4/22 wrapped w/ Simon Wool. Post-show Day 5 from Somewhere Nowhere NYC — still awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "currentStatus": "Sun 4/26 8am quiet. Post-show Day 8 from Somewhere Nowhere NYC — videographer/pro media pull-through still outstanding. Studio sessions 4/22 both wrapped (5-6pm + 7-10pm). Brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
         "date": "4/23",
@@ -668,7 +668,7 @@
       },
       {
         "date": "4/12",
-        "text": "🚨 GoDaddy: sharmabrands.com domain expires in ~15 days - renewal notice received"
+        "text": "🚨 GoDaddy: sharmabrands.com domain expires in ~16 days - renewal notice received"
       },
       {
         "date": "4/11",
@@ -1099,4 +1099,3 @@
     "updated": "2026-03-10"
   }
 ]
-
