@@ -2,7 +2,7 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Mon 4/27 11am. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor. Zurp Check-In Tue 4/28 11:30am.",
+    "currentStatus": "Mon 4/27 1pm. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view). Jack <> Troy <> Nik recap still overdue Day 5. UnKommon Miami signature monitor. Zurp Check-In Tue 4/28 11:30am.",
     "alert": "📝 Amoria recap owed Mon • Alec signature Day 4 • Jack recap overdue Day 4",
     "recentActivity": [
       {
@@ -371,8 +371,12 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "No fresh kids-vitamin-specific data in this refresh. Separate Pharmacy TB created a peptide/pharmacy ops action: Nik owes peptide offerings list to Myles.",
+    "currentStatus": "📄 NEW Mon 4/27 11:10am: Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment — 2026-04-27' Google Doc to nik@nik.co (Day 0, ~2hr in inbox). First major artifact since 3/14 scoping — Nik review owed.",
     "recentActivity": [
+      {
+        "date": "4/27",
+        "text": "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed"
+      },
       {
         "date": "4/24",
         "text": "🎙️ Pharmacy TB adjacent note: pharmacy ops can source/repackage/ship peptides; Nik owes peptide list to Myles"
@@ -397,7 +401,8 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-03-14"
+    "updated": "2026-04-27",
+    "alert": "📄 Scout opportunity assessment doc landed 11:10am — review owed"
   },
   {
     "name": "Household Proof",
@@ -439,7 +444,7 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Nik Sharma @ Workweek). Mon 10am: open/click data still not flowing. Pod recordings Mon 7-8:15pm + Tue 12-1pm.",
+    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Nik Sharma @ Workweek). Mon 1pm: open/click data still not flowing. Pod recordings TONIGHT 7-8:15pm + Tue 12-1pm.",
     "recentActivity": [
       {
         "date": "4/21",
@@ -551,7 +556,7 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Mon 4/27 11am. Post-show Day 9. 🔴 Two AM signals 9:04-9:05am: Manus rebuilding afterourssound.com (Spotify stats refresh) + Minul wired $650 to CG Videos LLC (videographer payment). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
+    "currentStatus": "Mon 4/27 1pm. Post-show Day 9. 🔴 Two AM signals 9:04-9:05am: Manus rebuilding afterourssound.com (Spotify stats refresh) + Minul wired $650 to CG Videos LLC (videographer payment). Release lock-in wrapped 4/23. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
     "recentActivity": [
       {
         "date": "4/23",
