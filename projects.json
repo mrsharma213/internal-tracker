@@ -2,7 +2,7 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Sun 4/26 2pm quiet weekend close. Amoria meet WRAPPED Fri 4/24 5:30-6:30pm — recap owed Mon AM. Alec Docusign still pending Day 4 since 4/23 view. Jack recap still overdue Day 4. UnKommon Miami signature monitor.",
+    "currentStatus": "Sun 10pm quiet close. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed Mon AM. Alec Docusign signature pending Day 4 (~76h+ since view). Jack <> Troy <> Nik recap still overdue Day 4. UnKommon Miami signature monitor. Zurp Check-In Tue 4/28 11:30am.",
     "alert": "📝 Amoria recap owed Mon • Alec signature Day 4 • Jack recap overdue Day 4",
     "recentActivity": [
       {
@@ -439,7 +439,7 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "🚨 SHIPS TODAY Sun 4/26 (2pm — final pass + send window OPEN). 'The 2026 Vitamins & Supplements Playbook' — CTA: vms.nik.co. ✅ StreetTalk Interview WRAPPED 4/23 (Matt Hickman/Flickman Media) — recap/next steps owed. ✅ Limited Supply Recording WRAPPED 4/21. Sunday newsletter 4/19 shipped. Josh Payne (Onward) sponsorship inbound. Mellisa Helga (Founder Unfiltered) guest invite inbound 4/23.",
+    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Nik Sharma @ Workweek). Open/click data not yet flowing — monitor Mon AM. Pod recordings Mon 7-8:15pm + Tue 12-1pm.",
     "recentActivity": [
       {
         "date": "4/21",
@@ -551,7 +551,7 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Sun 4/26 2pm quiet. Post-show Day 8 from Somewhere Nowhere NYC — videographer/pro media pull-through still outstanding. Studio sessions 4/22 both wrapped (5-6pm + 7-10pm). Release lock-in wrapped 4/23 10:30pm (Minul). Brand voice brief still owed to Brandon.",
+    "currentStatus": "Sun 10pm. Post-show Day 8 from Somewhere Nowhere NYC — videographer/pro media pull-through still outstanding. Release lock-in wrapped 4/23. Brand vision doc deferred. After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand doc.",
     "recentActivity": [
       {
         "date": "4/23",
@@ -655,7 +655,7 @@
     ],
     "status": "active",
     "updated": "2026-04-23",
-    "alert": "Brand voice brief owed to Brandon • videographer assets still to pull"
+    "alert": "🎧 After Ours Sync Tue 2pm — media pull-through still owed"
   },
   {
     "name": "Lunar Solar Group (CGO)",
