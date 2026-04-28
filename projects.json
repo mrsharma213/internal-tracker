@@ -2,9 +2,21 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Tue 4/28 11am. 🔥 Zurp Check-In TODAY 11:30am — within 30min. Amoria meet WRAPPED Fri 4/24 — recap/next steps still owed (Day 4). Alec Docusign signature pending Day 6 (~117h+ since view). Jack <> Troy <> Nik recap still overdue Day 6. UnKommon Miami signature monitor.",
-    "alert": "🔥 Zurp Check-In NOW (11:30am, 30min away) • Amoria recap Day 4 • Alec signature Day 6",
+    "currentStatus": "Tue 4/28 2pm. 🎯 NEW 1:52pm: Docusign COMPLETED — 'The Ave x ZURP 4.28.26.docx' fully executed (Dimitri signed). NEW venue locked. ✅ Zurp Check-In WRAPPED 11:30am-12pm — recap/next steps owed. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed (Day 4). Alec Docusign signature pending Day 6 (~120h+). Jack <> Troy <> Nik recap Day 6. UnKommon Miami signature monitor.",
+    "alert": "🎯 The Ave x ZURP EXECUTED 1:52pm — kick off rollout • Alec signature Day 6 • Jack recap Day 6",
     "recentActivity": [
+      {
+        "date": "4/28",
+        "text": "🎯 Docusign 1:52pm: 'The Ave x ZURP 4.28.26.docx' COMPLETED — fully executed, new venue locked"
+      },
+      {
+        "date": "4/28",
+        "text": "🔥 Docusign 12:45pm: Dimitri viewed 'The Ave x ZURP 4.28.26.docx'"
+      },
+      {
+        "date": "4/28",
+        "text": "✅ Zurp Check-In WRAPPED 11:30am-12pm ET — recap/next steps owed"
+      },
       {
         "date": "4/24",
         "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
@@ -371,7 +383,7 @@
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Tue 4/28 11am. 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc still owed Nik review (Day 1+, ~24h in inbox since Mon 11:10am) — first major artifact since 3/14 scoping.",
+    "currentStatus": "Tue 4/28 1pm. 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc still owed Nik review (Day 2, ~26h in inbox since Mon 11:10am) — first major artifact since 3/14 scoping.",
     "recentActivity": [
       {
         "date": "4/27",
@@ -444,7 +456,7 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook'. Tue 4/28 11am: 🔥 Limited Supply Podcast Recording TODAY 12-1pm (within 1h). Mon 7-8:15pm WRAPPED. Open/click data tracking ~40h post-send.",
+    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook'. Tue 4/28 1pm: ✅ LS Podcast Recording WRAPPED 12-1pm — second of two complete. Mon 7-8:15pm also WRAPPED. Open/click data tracking ~42h post-send (still pending pull).",
     "recentActivity": [
       {
         "date": "4/21",
@@ -556,7 +568,7 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Tue 4/28 11am. 🔥 After Ours Sync TODAY 2-3pm — within 3h. Post-show Day 10. Mon AM signals 9:04-9:05am: Manus rebuilt afterourssound.com (Spotify stats) + Minul wired $650 to CG Videos LLC (videographer). Release lock-in wrapped 4/23. Agenda: media pull-through, release calendar, brand doc. Wed 4/29 AO Studio Time 5-6pm + 7-10pm.",
+    "currentStatus": "Tue 4/28 2pm. 🔥 After Ours Sync LIVE NOW 2-3pm. Post-show Day 10. Mon AM signals 9:04-9:05am: Manus rebuilt afterourssound.com (Spotify stats) + Minul wired $650 to CG Videos LLC (videographer). Release lock-in wrapped 4/23. Agenda: media pull-through, release calendar, brand doc. Wed 4/29 AO Studio Time 5-6pm + 7-10pm.",
     "recentActivity": [
       {
         "date": "4/23",
@@ -806,7 +818,7 @@
   {
     "name": "Air Oasis",
     "desc": "Client - growth and paid media.",
-    "currentStatus": "🚨 Homepage deadline PASSED (Fri 4/10) — font pairing mockup to Derek now 9 days overdue. 📧 Boring Ecom invoice from Joe Siegel (flow build). Marketing emails still active (oak season 4/17). No homepage follow-up visible. Needs action.",
+    "currentStatus": "🚨 Homepage deadline PASSED (Fri 4/10) — 18 days overdue (Tue 4/28 1pm). 📧 Boring Ecom invoice from Joe Siegel (flow build). Marketing emails still active. No homepage follow-up visible. Needs action.",
     "recentActivity": [
       {
         "date": "4/19",
