@@ -983,494 +983,1039 @@
 <script>
 const projects = [
   {
-    name: "Zurp LLC",
-    desc: "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    currentStatus: "Wed 4/29 1:03pm. ✅ Zurp Check-In WRAPPED 4/28 11:30am-12pm — recap owed. 🎯 The Ave x ZURP Docusign EXECUTED 4/28 1:52pm — new venue locked, kick off rollout w/ Dimitri. Troy invite 'Zurp — Finalize Transaction Bonus Plan' Mon 5/4 3:30-4pm pending review. Alec Docusign Day 7. Jack <> Troy <> Nik recap Day 7. UnKommon Miami signature monitor.",
-    alert: "🎯 Ave x ZURP EXECUTED • Troy: Bonus Plan Mon 5/4 • Alec Docusign Day 7",
-    recentActivity: [
-      { date: "4/28", text: "🎯 Docusign 1:52pm: 'The Ave x ZURP 4.28.26.docx' COMPLETED — fully executed, new venue locked" },
-      { date: "4/28", text: "🔥 Docusign 12:45pm: Dimitri viewed 'The Ave x ZURP 4.28.26.docx'" },
-      { date: "4/28", text: "✅ Zurp Check-In WRAPPED 11:30am-12pm ET — recap/next steps owed" },
-      { date: "4/24", text: "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik" },
-      { date: "4/24", text: "📅 Calendar changed from Cordell<>Troy<>Nik to Amoria meet; capture post-call next steps" },
-      { date: "4/24", text: "🔥 NOW 5pm ET: Cordell <> Troy <> Nik — LIVE" },
-      { date: "4/24", text: "💸 Mercury 2:27pm: Minul $240 wire → Zhangjiagang Melcorp (hardware supplier)" },
-      { date: "4/23", text: "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (20h+)" },
-      { date: "4/23", text: "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 2 overdue" },
-      { date: "4/22", text: "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET — recap pending" },
-      { date: "4/22", text: "📅 Troy Osinoff replied 9:41am on 'Troy x Jack' invite thread (26 msgs)" },
-      { date: "4/21", text: "🆕 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET — Miami expansion" },
-      { date: "4/21", text: "📧 Rameez outreach to Noah @ Common Country Bar 2:44pm ET — new venue pitch" },
-      { date: "4/21", text: "✅ Zurp Check-In WRAPPED 1:30-2:00pm ET" },
-      { date: "4/20", text: "🎉 Victor Calderone residency weekend wrapped — pulling results at Zurp Check-In Tue 4/21" },
-      { date: "4/19", text: "🎛️ Victor Calderone residency weekend — indoor unit in field" },
-      { date: "4/16", text: "📅 Zurp Check-In completed 2:30pm ET" },
-      { date: "4/15", text: "📧 Follow-up email sent to Remy at Refuge for charger placement" },
-      { date: "4/15", text: "✅ March legal invoice (Robert Freund Law) paid by Minul" },
-      { date: "4/14", text: "✅ Zurp Check-In completed (11:30am ET)" }
+    "name": "Zurp LLC",
+    "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Zurp Check-In decisions captured: ordering 8 battery units at $1,900/unit with ~45-day lead time; MSG Afters locked; moving/storage logistics still active; transaction bonus plan review still pending before lawyer submission. Next YoSharma Check-In Thu 1:30pm.",
+    "alert": "8 battery units / 45-day lead • Bonus plan review pending • YoSharma Thu 1:30pm",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "📞 Fireflies recap captured: 8 units @ $1,900 each, 45-day lead time; MSG Afters locked; logistics/storage workstream active"
+      },
+      {
+        "date": "4/28",
+        "text": "🎯 Docusign 1:52pm: 'The Ave x ZURP 4.28.26.docx' COMPLETED — fully executed, new venue locked"
+      },
+      {
+        "date": "4/28",
+        "text": "🔥 Docusign 12:45pm: Dimitri viewed 'The Ave x ZURP 4.28.26.docx'"
+      },
+      {
+        "date": "4/28",
+        "text": "✅ Zurp Check-In WRAPPED 11:30am-12pm ET — recap/next steps owed"
+      },
+      {
+        "date": "4/24",
+        "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
+      }
     ],
-    people: [
-      { initials: "TO", name: "Troy Osinoff", role: "Partner" },
-      { initials: "RM", name: "Remy Liebersohn", role: "Refuge NYC" },
-      { initials: "EF", name: "Elsa Fessahaye", role: "Gospel NYC" },
-      { initials: "DL", name: "Dil", role: "Partner" },
-      { initials: "JM", name: "Jimmy", role: "Partner" },
-      { initials: "RF", name: "Robert Freund", role: "Attorney" },
-      { initials: "RH", name: "Rahul Hettiarachchi", role: "Yo.vc" },
-      { initials: "MN", name: "Minul De Silva", role: "Operations" }
+    "people": [
+      {
+        "initials": "TO",
+        "name": "Troy Osinoff",
+        "role": "Partner"
+      },
+      {
+        "initials": "RM",
+        "name": "Remy Liebersohn",
+        "role": "Refuge NYC"
+      },
+      {
+        "initials": "EF",
+        "name": "Elsa Fessahaye",
+        "role": "Gospel NYC"
+      },
+      {
+        "initials": "DL",
+        "name": "Dil",
+        "role": "Partner"
+      },
+      {
+        "initials": "JM",
+        "name": "Jimmy",
+        "role": "Partner"
+      },
+      {
+        "initials": "RF",
+        "name": "Robert Freund",
+        "role": "Attorney"
+      },
+      {
+        "initials": "RH",
+        "name": "Rahul Hettiarachchi",
+        "role": "Yo.vc"
+      },
+      {
+        "initials": "MN",
+        "name": "Minul De Silva",
+        "role": "Operations"
+      }
     ],
-    upcomingEvents: [
-      { date: "✅ Fri 4/24 5:30pm", event: "Amoria/Cordell meet — WRAPPED (recap owed)" },
-      { date: "Wed 4/22 2pm", event: "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)" }
+    "upcomingEvents": [
+      {
+        "date": "Thu 4/30 1:30pm",
+        "event": "YoSharma Check-In"
+      },
+      {
+        "date": "✅ Fri 4/24 5:30pm",
+        "event": "Amoria/Cordell meet — WRAPPED (recap owed)"
+      },
+      {
+        "date": "Wed 4/22 2pm",
+        "event": "✅ Jack <> Troy <> Nik — WRAPPED (recap pending)"
+      }
     ],
-    links: [
-      { type: "💬", label: "Slack", url: "#" }
+    "links": [
+      {
+        "type": "💬",
+        "label": "Slack",
+        "url": "#"
+      }
     ],
-    decisions: [
-      { date: "4/15", text: "Indoor unit (24 batteries) confirmed ready for Victor Calderone residency this weekend" },
-      { date: "4/15", text: "Revenue split: 50/50 with venues. Weather-proof outdoor unit 6-week lead time." },
-      { date: "4/10", text: "Custom ticketing system: WordPress + Shopify integration, Cloudways hosting at $24/mo" },
-      { date: "4/8", text: "Zurp x Refuge call + Arx <> Troy + Nik both completed - awaiting next steps" },
-      { date: "3/14", text: "Gospel NYC confirmed as flagship venue - unit placement as soon as contract signed" }
+    "decisions": [
+      {
+        "date": "4/28",
+        "text": "Proceed with ordering eight battery units at $1,900/unit despite 45-day lead time to cover summer demand."
+      },
+      {
+        "date": "4/15",
+        "text": "Indoor unit (24 batteries) confirmed ready for Victor Calderone residency this weekend"
+      },
+      {
+        "date": "4/15",
+        "text": "Revenue split: 50/50 with venues. Weather-proof outdoor unit 6-week lead time."
+      },
+      {
+        "date": "4/10",
+        "text": "Custom ticketing system: WordPress + Shopify integration, Cloudways hosting at $24/mo"
+      },
+      {
+        "date": "4/8",
+        "text": "Zurp x Refuge call + Arx <> Troy + Nik both completed - awaiting next steps"
+      }
     ],
-    status: "active",
-    updated: "2026-04-29T12:03"
+    "status": "active",
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
-    name: "Authentiq",
-    desc: "NFC-based authentication platform for high-value consumer goods. Partners: Nik, Troy, Cameron, David.",
-    currentStatus: "📇 Dil P (yo.vc) 500 Mirrored Metal NFC Business Cards quote request 4/21. 💾 Troy 'custom USBs' 46 msgs deep (9:28am 4/21). NFC authentication for high-value consumer goods. Features doc still awaiting Troy review.",
-    recentActivity: [
-      { date: "4/21", text: "💾 Troy 'custom USBs' thread active — 46 msgs deep (9:28am)" },
-      { date: "4/21", text: "📇 Dil P (yo.vc) — 500 Mirrored Metal NFC Business Cards print quote request" },
-      { date: "4/15", text: "📄 Features doc created and sent to Troy for review" },
-      { date: "4/14", text: "🆕 Project created from 'Authentic Chat' Fireflies call" },
-      { date: "4/14", text: "V1-V3 roadmap scoped: NFC→ownership transfer→authenticated marketplace" }
+    "name": "Authentiq",
+    "desc": "NFC-based authentication platform for high-value consumer goods. Partners: Nik, Troy, Cameron, David.",
+    "currentStatus": "📇 Dil P (yo.vc) 500 Mirrored Metal NFC Business Cards quote request 4/21. 💾 Troy 'custom USBs' 46 msgs deep (9:28am 4/21). NFC authentication for high-value consumer goods. Features doc still awaiting Troy review.",
+    "recentActivity": [
+      {
+        "date": "4/21",
+        "text": "💾 Troy 'custom USBs' thread active — 46 msgs deep (9:28am)"
+      },
+      {
+        "date": "4/21",
+        "text": "📇 Dil P (yo.vc) — 500 Mirrored Metal NFC Business Cards print quote request"
+      },
+      {
+        "date": "4/15",
+        "text": "📄 Features doc created and sent to Troy for review"
+      },
+      {
+        "date": "4/14",
+        "text": "🆕 Project created from 'Authentic Chat' Fireflies call"
+      },
+      {
+        "date": "4/14",
+        "text": "V1-V3 roadmap scoped: NFC→ownership transfer→authenticated marketplace"
+      }
     ],
-    people: [
-      { initials: "NS", name: "Nik Sharma", role: "Co-founder" },
-      { initials: "TO", name: "Troy Osinoff", role: "Co-founder" },
-      { initials: "CM", name: "Cameron", role: "Blockchain/Chips" },
-      { initials: "DV", name: "David", role: "Partner" }
+    "people": [
+      {
+        "initials": "NS",
+        "name": "Nik Sharma",
+        "role": "Co-founder"
+      },
+      {
+        "initials": "TO",
+        "name": "Troy Osinoff",
+        "role": "Co-founder"
+      },
+      {
+        "initials": "CM",
+        "name": "Cameron",
+        "role": "Blockchain/Chips"
+      },
+      {
+        "initials": "DV",
+        "name": "David",
+        "role": "Partner"
+      }
     ],
-    upcomingEvents: [
-      { date: "TBD", event: "Troy review + next steps" }
+    "upcomingEvents": [
+      {
+        "date": "TBD",
+        "event": "Troy review + next steps"
+      }
     ],
-    links: [],
-    decisions: [
-      { date: "4/14", text: "V1: NFC chips ($0.30-4.00/chip), App Clip auth, SKU-level tracking, brand dashboard" },
-      { date: "4/14", text: "Verticals: clothing (V1), sports cards, cannabis, skincare" },
-      { date: "4/14", text: "V3 vision: authenticated marketplace - Grailed/StockX competitor" }
+    "links": [],
+    "decisions": [
+      {
+        "date": "4/14",
+        "text": "V1: NFC chips ($0.30-4.00/chip), App Clip auth, SKU-level tracking, brand dashboard"
+      },
+      {
+        "date": "4/14",
+        "text": "Verticals: clothing (V1), sports cards, cannabis, skincare"
+      },
+      {
+        "date": "4/14",
+        "text": "V3 vision: authenticated marketplace - Grailed/StockX competitor"
+      }
     ],
-    status: "active",
-    updated: "2026-04-21",
-    alert: "Dil P NFC business card quote + Troy 'custom USBs' thread 46 msgs + features doc still awaiting Troy review"
+    "status": "active",
+    "updated": "2026-04-21",
+    "alert": "Dil P NFC business card quote + Troy 'custom USBs' thread 46 msgs + features doc still awaiting Troy review"
   },
   {
-    name: "Harper Wilde",
-    desc: "Client - CRO/paid media. Marpipe creative testing ($1,500/mo, 1-yr rate lock).",
-    currentStatus: "No new Slack activity in key-channel scan since 4pm. Prior Lindsay Gatto “Update” email + unread Slack escalation remain unresolved unless separately handled.",
-    recentActivity: [
-      { date: "4/24", text: "📭 6:01pm Slack key-channel scan quiet; prior escalation still needs manual closeout check" },
-      { date: "4/24", text: "🔴 5 unread Slack msgs in Harper Wilde channel (3:19pm)" },
-      { date: "4/24", text: "📧 Lindsay Gatto 'Update' 1:25pm — IMPORTANT, still unread" },
-      { date: "4/4", text: "Harper Wilde marketing email: Invisible Underwear launch" },
-      { date: "4/3", text: "6 unread Slack messages in Harper Wilde channel" },
-      { date: "4/3", text: "Harper Wilde marketing email: Perfect Lace campaign" },
-      { date: "3/23", text: "Marpipe × Love Wellness intro thread now at 7 messages - active coordination" },
-      { date: "3/20", text: "Nik sent Intro - Harper Wilde & TripleWhale" }
+    "name": "Harper Wilde",
+    "desc": "Client - CRO/paid media. Marpipe creative testing ($1,500/mo, 1-yr rate lock).",
+    "currentStatus": "No new Slack activity in key-channel scan since 4pm. Prior Lindsay Gatto “Update” email + unread Slack escalation remain unresolved unless separately handled.",
+    "recentActivity": [
+      {
+        "date": "4/24",
+        "text": "📭 6:01pm Slack key-channel scan quiet; prior escalation still needs manual closeout check"
+      },
+      {
+        "date": "4/24",
+        "text": "🔴 5 unread Slack msgs in Harper Wilde channel (3:19pm)"
+      },
+      {
+        "date": "4/24",
+        "text": "📧 Lindsay Gatto 'Update' 1:25pm — IMPORTANT, still unread"
+      },
+      {
+        "date": "4/4",
+        "text": "Harper Wilde marketing email: Invisible Underwear launch"
+      },
+      {
+        "date": "4/3",
+        "text": "6 unread Slack messages in Harper Wilde channel"
+      },
+      {
+        "date": "4/3",
+        "text": "Harper Wilde marketing email: Perfect Lace campaign"
+      },
+      {
+        "date": "3/23",
+        "text": "Marpipe × Love Wellness intro thread now at 7 messages - active coordination"
+      },
+      {
+        "date": "3/20",
+        "text": "Nik sent Intro - Harper Wilde & TripleWhale"
+      }
     ],
-    people: [
-      { initials: "JF", name: "Jane Fisher", role: "Harper Wilde" },
-      { initials: "LG", name: "Lindsay Gatto", role: "Harper Wilde" },
-      { initials: "SS", name: "Sarah Schellhamer", role: "Aisle3 (Amazon)" },
-      { initials: "JB", name: "Joy Beljera", role: "Marpipe" },
-      { initials: "CJ", name: "Camille Jean", role: "Bazaar Voice" }
+    "people": [
+      {
+        "initials": "JF",
+        "name": "Jane Fisher",
+        "role": "Harper Wilde"
+      },
+      {
+        "initials": "LG",
+        "name": "Lindsay Gatto",
+        "role": "Harper Wilde"
+      },
+      {
+        "initials": "SS",
+        "name": "Sarah Schellhamer",
+        "role": "Aisle3 (Amazon)"
+      },
+      {
+        "initials": "JB",
+        "name": "Joy Beljera",
+        "role": "Marpipe"
+      },
+      {
+        "initials": "CJ",
+        "name": "Camille Jean",
+        "role": "Bazaar Voice"
+      }
     ],
-    upcomingEvents: [],
-    links: [
-      { type: "💬", label: "#ext-harper-wilde", url: "#" }
+    "upcomingEvents": [],
+    "links": [
+      {
+        "type": "💬",
+        "label": "#ext-harper-wilde",
+        "url": "#"
+      }
     ],
-    decisions: [
-      { date: "3/12", text: "Signed Marpipe deal at $1,500/mo with 1-year rate guarantee" }
+    "decisions": [
+      {
+        "date": "3/12",
+        "text": "Signed Marpipe deal at $1,500/mo with 1-year rate guarantee"
+      }
     ],
-    status: "active",
-    updated: "2026-04-24",
-    alert: "🔴 5 unread Slack + Lindsay Gatto 'Update' IMPORTANT — both still open TODAY 4/24"
+    "status": "active",
+    "updated": "2026-04-24",
+    "alert": "🔴 5 unread Slack + Lindsay Gatto 'Update' IMPORTANT — both still open TODAY 4/24"
   },
   {
-    name: "GoodOnya Organic",
-    desc: "New client - paid media strategy for collagen launch.",
-    currentStatus: "✍️ Nicole Rose inbound 9:57am 4/22 — 'Copywriter recs for GoodOnya' (3 msgs, IMPORTANT + Action label). Needs response. GoodOnya x Nik meeting completed 3/19.",
-    alert: "Nicole Rose 'Copywriter recs for GoodOnya' — 3 msgs thread, IMPORTANT + Action (4/22 9:57am). Needs response.",
-    recentActivity: [
-      { date: "4/22", text: "✍️ Nicole Rose inbound 9:57am — 'Copywriter recs for GoodOnya' (3 msgs, IMPORTANT + Action)" },
-      { date: "3/19", text: "GoodOnya x Nik meeting completed (1pm)" },
-      { date: "3/19", text: "Matt Jung email thread active - 13 messages in GoodOnya thread" },
-      { date: "3/16", text: "Strategy call held at 12pm - Nicole on the call" },
-      { date: "3/16", text: "Nicole confirmed today's noon call - Matt will try to join" },
-      { date: "3/15", text: "Rameez sent second follow-up to Matt - asking him to confirm a slot" }
+    "name": "GoodOnya Organic",
+    "desc": "New client - paid media strategy for collagen launch.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Matt x Nik Fireflies captured: GoodOnYa exploring local bank credit lines + Highbeam financing, planning $150K-$200K paid marketing budget, and needs a lean funnel/retargeting plan. Matt to share docs/email flows/Miro; Nik owes David Siegel/Highbeam intro, Klaviyo review, phased funnel plan, and follow-up early next week.",
+    "alert": "Matt to share docs • Nik owes Highbeam intro + phased paid funnel plan",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🧩 Nik action items: Highbeam intro, Klaviyo review after docs, lean funnel/retargeting proposal, follow-up early next week"
+      },
+      {
+        "date": "4/29",
+        "text": "📞 Fireflies: Matt x Nik — financing via local banks/Highbeam + $150K-$200K paid marketing plan discussed"
+      },
+      {
+        "date": "4/22",
+        "text": "✍️ Nicole Rose inbound 9:57am — 'Copywriter recs for GoodOnya' (3 msgs, IMPORTANT + Action)"
+      },
+      {
+        "date": "3/19",
+        "text": "GoodOnya x Nik meeting completed (1pm)"
+      },
+      {
+        "date": "3/19",
+        "text": "Matt Jung email thread active - 13 messages in GoodOnya thread"
+      }
     ],
-    people: [
-      { initials: "NR", name: "Nicole Rose", role: "GoodOnya" },
-      { initials: "NG", name: "Nicole Gardner", role: "GoodOnya" },
-      { initials: "MJ", name: "Matt Jung", role: "GoodOnya" }
+    "people": [
+      {
+        "initials": "NR",
+        "name": "Nicole Rose",
+        "role": "GoodOnya"
+      },
+      {
+        "initials": "NG",
+        "name": "Nicole Gardner",
+        "role": "GoodOnya"
+      },
+      {
+        "initials": "MJ",
+        "name": "Matt Jung",
+        "role": "GoodOnya"
+      }
     ],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-04-22"
-  },
-
-  {
-    name: "Kids Vitamin Brand",
-    desc: "Early-stage, self-funded. ~4 month launch timeline.",
-    currentStatus: "Tue 4/28 3pm. 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc still owed Nik review (Day 2, ~28h in inbox since Mon 11:10am) — first major artifact since 3/14 scoping.",
-    recentActivity: [
-      { date: "4/27", text: "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed" },
-      { date: "4/24", text: "🎙️ Pharmacy TB adjacent note: pharmacy ops can source/repackage/ship peptides; Nik owes peptide list to Myles" },
-      { date: "3/14", text: "Project scoped - 4 month target timeline set" }
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [
+      {
+        "date": "4/28",
+        "text": "GoodOnYa growth plan shifts from mostly organic to a lean paid funnel/retargeting system with minimal overhead."
+      }
     ],
-    people: [
-      { initials: "TO", name: "Troy Osinoff", role: "Partner" }
-    ],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    countdown: { label: "Target launch", date: "2026-07-14" },
-    status: "active",
-    updated: "2026-04-27",
-    alert: "📄 Scout opportunity assessment doc Day 1+ — review still owed"
-  },
-  {
-    name: "Household Proof",
-    desc: "Advertorial/review platform for wellness and supplements.",
-    currentStatus: "Clicky status report received for thegetwell.co (4/7). Content actively publishing on TheGetWell.co + DailyWellness.co - WordPress moderation queue continues. Site buildout progressing.",
-    recentActivity: [
-      { date: "4/7", text: "Clicky status report received for thegetwell.co" },
-      { date: "4/5", text: "WordPress moderation: 'The Connection Between Sleep and Skin Health' (DailyWellness.co)" },
-      { date: "3/23", text: "WordPress moderation: 'Are Diet Supplements Healthy to Take?'" },
-      { date: "3/23", text: "WordPress moderation: 'I Lost 30 lbs in 3.5 Months - Without Injections or Fitness Bootcamps'" },
-      { date: "3/23", text: "WordPress moderation: 'I Tried This Coffee Packed With Vitamins & It Changed My Morning Routine'" },
-      { date: "3/23", text: "WordPress moderation: 'Shark Tank Missed Out On Proven Skincare'" }
-    ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-04-07"
-  },
-
-  {
-    name: "Limited Supply Newsletter",
-    desc: "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    currentStatus: "Wed 4/29 1:03pm. ✅ Both LS pod recordings WRAPPED this week (Mon 7-8:15pm + Tue 12-1pm). Newsletter sent Sun 4/26 7:20pm ET — open/click data ~64h post-send (still pending pull). Episode release TODAY (Wed cadence). Next send Sun 5/3 (4 days).",
-    recentActivity: [
-      { date: "4/21", text: "🎙️ Asher Brooks (Theorist Studios) 'would love to have you on the pod' — inbound 12:38pm" },
-      { date: "4/21", text: "✅ Limited Supply Recording WRAPPED 11:30am-12:30pm ET" },
-      { date: "4/21", text: "📝 Jet drafted 'Podcast Outline: Supplement Brands, What's Working in 2026' (10:16am ET)" },
-      { date: "4/20", text: "✅ MentorPass: Sterling & Nik — Session WRAPPED 4:30-5:30pm ET" },
-      { date: "4/20", text: "✅ Limited Supply Podcast Recording 7:00-8:15pm ET WRAPPED" },
-      { date: "4/20", text: "✅ Paramount x Nik 4/29 VE Prep wrapped 3:00-3:30pm — doc feedback received (not accurate, needs 10k budget)" },
-      { date: "4/19", text: "✅ Newsletter SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'" },
-      { date: "4/19", text: "✅ Record Workweek wrapped 2pm ET • Nik x Joe 12pm done" },
-      { date: "4/16", text: "📅 Paramount Dashboard review completed 3:30pm" },
-      { date: "4/15", text: "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing" },
-      { date: "4/12", text: "✅ 'Affiliate marketing, done right' newsletter sent" },
-      { date: "4/11", text: "🆕 Rameez followed up with Vinay Sridhar (Reddit) — podcast recording 4/21 or 4/22" }
-    ],
-    people: [
-      { initials: "NM", name: "Natalie Mayr", role: "CSM, Workweek" },
-      { initials: "HS", name: "Hanna Sender", role: "Production" },
-      { initials: "GM", name: "Germana", role: "Email/Sailthru" },
-      { initials: "LS", name: "Louisa", role: "Sales" },
-      { initials: "JP", name: "Josh Payne", role: "Onward (sponsor lead)" }
-    ],
-    upcomingEvents: [
-      { date: "Tue 4/21 11:30am", event: "🎙️ Limited Supply Podcast Recording (LIVE NOW)" },
-      { date: "Sun 4/26", event: "📰 Next newsletter — VOTW 'Ecommerce Equation' (Josiah) draft awaiting Nik review" }
-    ],
-    links: [
-      { type: "💬", label: "#nik-workweek", url: "#" },
-      { type: "💬", label: "#limitedsupply_hq", url: "#" },
-      { type: "📁", label: "Drive Drafts", url: "#" }
-    ],
-    decisions: [],
-    status: "active",
-    updated: "2026-04-29T12:03"
+    "status": "active",
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
-    name: "After Ours / Pigeon House Records",
-    desc: "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    currentStatus: "Wed 4/29 1:03pm. ✅ After Ours Sync WRAPPED 4/28 2-3pm — recap/next steps owed (Day 1). Post-show Day 11 from Somewhere Nowhere. Manus afterourssound.com refresh still pending review. CG Videos $650 paid 4/27 — watch for asset delivery. 🎙️ AO Studio Time TODAY 5-6pm + 7-10pm (4h away).",
-    recentActivity: [
-      { date: "4/23", text: "Post-show Day 5 — pro media/videographer assets still owed" },
-      { date: "4/22", text: "✅ AO Studio 5-6pm + 7-10pm both WRAPPED • Zagged Dinner 8-10:15pm (Simon Wool)" },
-      { date: "4/21", text: "✅ After Ours Sync WRAPPED 2:00-3:00pm ET — Fireflies recap delivered 2:51pm" },
-      { date: "4/21", text: "✅ Call Alec / Afters WRAPPED 8:00pm ET" },
-      { date: "4/20", text: "📅 After Ours Sync scheduled Tue 4/21 2:00pm ET" },
-      { date: "4/19", text: "✅ Somewhere Nowhere NYC show wrapped ~2am — opened for Moojo" },
-      { date: "4/18", text: "🎧 Show LIVE at Somewhere Nowhere NYC (10PM–2AM opening Moojo)" },
-      { date: "4/18", text: "✅ Nik landed JFK (B6 816 SFO→JFK) — back in NYC" },
-      { date: "4/17", text: "✅ YC launch party SF 7:45pm — private DJ set played" },
-      { date: "4/17", text: "🔊 SoundCloud: 'Rise & Shine' / 'Future Classic' LIVE" }
+    "name": "Kids Vitamin Brand",
+    "desc": "Early-stage, self-funded. ~4 month launch timeline.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Left Lane/brand-incubator thesis remains the active next step: equity-split + CEO-per-brand framework doc owed. Scout Kids Need-Based Supplements opportunity doc still needs review; supplements/skincare remain top-ranked categories from Left Lane brainstorm.",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
+      },
+      {
+        "date": "4/27",
+        "text": "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed"
+      },
+      {
+        "date": "4/24",
+        "text": "🎙️ Pharmacy TB adjacent note: pharmacy ops can source/repackage/ship peptides; Nik owes peptide list to Myles"
+      },
+      {
+        "date": "3/14",
+        "text": "Project scoped - 4 month target timeline set"
+      }
     ],
-    people: [
-      { initials: "MN", name: "Minul", role: "Collaborator" },
-      { initials: "PC", name: "Paul Campbell", role: "Music Manager (NÜ MGMT)" },
-      { initials: "TO", name: "Troy Osinoff", role: "Pigeon animations" },
-      { initials: "BL", name: "Brandon Launerts", role: "Social/Content" }
+    "people": [
+      {
+        "initials": "TO",
+        "name": "Troy Osinoff",
+        "role": "Partner"
+      }
     ],
-    upcomingEvents: [
-      { date: "Wed 4/22", event: "✅ AO Studio Time (5-6pm + 7-10pm) — WRAPPED" },
-      { date: "This week", event: "Pull videographer assets from Somewhere Nowhere NYC show" },
-      { date: "Next week", event: "Lifestyle shoot NYC (evening, evergreen content)" }
-    ],
-    links: [],
-    decisions: [
-      { date: "4/14", text: "Sound direction pivot: dropped 3 older tracks. Keeping Future Classic, Flashback, No Control." },
-      { date: "4/14", text: "Content strategy split: IG feed = credible only. TikTok = flood. IG stories = repost TikTok." },
-      { date: "4/14", text: "Caption A/B test: Brandon creating two sets — engagement-optimized vs brand-aligned." },
-      { date: "4/14", text: "Paul/NÜ MGMT booking videographer from Catchy show for Saturday's NYC gig." },
-      { date: "4/11", text: "Afro House campaign: TikTok + IG targeting, viral video-first strategy" }
-    ],
-    status: "active",
-    updated: "2026-04-29T12:03",
-    alert: "AO Sync recap Day 1 owed • 🎙️ Studio Time TODAY 5-6pm + 7-10pm"
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "countdown": {
+      "label": "Target launch",
+      "date": "2026-07-14"
+    },
+    "status": "active",
+    "updated": "2026-04-29T18:00:00Z",
+    "alert": "📄 Scout opportunity assessment doc Day 1+ — review still owed",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
-    name: "Lunar Solar Group (CGO)",
-    desc: "Chief Growth Officer - post-acquisition of Sharma Brands (Oct 2025).",
-    currentStatus: "WA Dept of Revenue action required for Sharma Brands Inc. ✅ sharmabrands.com renewal placed 4/14 ($49.17). TEXTNIK.CO auto-renews 5/10 ($51.99). Namecheap API connected.",
-    recentActivity: [
-      { date: "4/14", text: "✅ sharmabrands.com renewal placed via GoDaddy ($49.17)" },
-      { date: "4/12", text: "🚨 GoDaddy: sharmabrands.com domain expires in ~16 days - renewal notice received" },
-      { date: "4/11", text: "🆕 WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506) - secure.dor.wa.gov" },
-      { date: "4/10", text: "🆕 GoDaddy renewal notice: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)" },
-      { date: "4/10", text: "Ahrefs: nik.co health score 87 - 1 new slow page flagged" },
-      { date: "4/9", text: "✅ ClickUp: YOY Net Rev Change task closed by Brad" },
-      { date: "4/9", text: "✅ Lunar: Ideal Living Weekly Leadership TB completed (3:30pm)" }
+    "name": "Household Proof",
+    "desc": "Advertorial/review platform for wellness and supplements.",
+    "currentStatus": "Clicky status report received for thegetwell.co (4/7). Content actively publishing on TheGetWell.co + DailyWellness.co - WordPress moderation queue continues. Site buildout progressing.",
+    "recentActivity": [
+      {
+        "date": "4/7",
+        "text": "Clicky status report received for thegetwell.co"
+      },
+      {
+        "date": "4/5",
+        "text": "WordPress moderation: 'The Connection Between Sleep and Skin Health' (DailyWellness.co)"
+      },
+      {
+        "date": "3/23",
+        "text": "WordPress moderation: 'Are Diet Supplements Healthy to Take?'"
+      },
+      {
+        "date": "3/23",
+        "text": "WordPress moderation: 'I Lost 30 lbs in 3.5 Months - Without Injections or Fitness Bootcamps'"
+      },
+      {
+        "date": "3/23",
+        "text": "WordPress moderation: 'I Tried This Coffee Packed With Vitamins & It Changed My Morning Routine'"
+      },
+      {
+        "date": "3/23",
+        "text": "WordPress moderation: 'Shark Tank Missed Out On Proven Skincare'"
+      }
     ],
-    people: [
-      { initials: "KM", name: "Keith Martin", role: "LSG Team" },
-      { initials: "PK", name: "Pierson Krass", role: "LSG Team" },
-      { initials: "LK", name: "Lauren Keller", role: "Marketing" },
-      { initials: "NP", name: "Nathan Pettijohn", role: "Ask JBH Podcast" },
-      { initials: "AD", name: "Alisha Desai", role: "Dublin DECA" },
-      { initials: "AR", name: "Amanda Rodriguez", role: "Prio Freedom" }
-    ],
-    upcomingEvents: [
-      { date: "Sun 4/13 4pm", event: "Daily: Lunar x SB sync" }
-    ],
-    links: [],
-    decisions: [
-      { date: "4/3", text: "BD3 dissolution wiring details received - final distribution to Sharma Brands" }
-    ],
-    status: "active",
-    updated: "2026-04-11",
-    alert: "⚠️ WA DOR action required"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-04-07"
   },
   {
-    name: "Love Wellness",
-    desc: "Client - DTC growth and performance marketing.",
-    currentStatus: "📧 Minul 'Love Wellness x Nik Sharma' inbound 4/20 2:40pm — likely scope update. Caroline Haber: Weekly Web Sync L//S <> Love Wellness completed (4/3). Marpipe × Jainy intro thread at 14 messages.",
-    recentActivity: [
-      { date: "4/20", text: "📧 Minul 'Love Wellness x Nik Sharma' inbound 2:40pm — review & respond" },
-      { date: "4/3", text: "Caroline Haber: Weekly Web Sync L//S <> Love Wellness" },
-      { date: "4/3", text: "Marpipe × Jainy intro thread now at 14 messages - still active" },
-      { date: "3/18", text: "Jainy x Nik bi-weekly sync completed (11:30am)" },
-      { date: "3/17", text: "Intro email sent: Dan (Marpipe) × Jainy (Love Wellness)" },
-      { date: "3/16", text: "Allyn (Oceans Talent) followed up - need decision on Afzal hire" }
+    "name": "Limited Supply Newsletter",
+    "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Newsletter sent Sun 4/26; open/click data still pending pull. Instant x Nik Fireflies captured attribution-window follow-up for Harper Wilde; Colin/Natalie Instant draft comments remain the active Workweek thread. Next send Sun 5/3.",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "📞 Instant x Nik Fireflies: attribution-window feature discussed; Nik to check Harper Wilde Klaviyo settings and follow up"
+      },
+      {
+        "date": "4/21",
+        "text": "🎙️ Asher Brooks (Theorist Studios) 'would love to have you on the pod' — inbound 12:38pm"
+      },
+      {
+        "date": "4/21",
+        "text": "✅ Limited Supply Recording WRAPPED 11:30am-12:30pm ET"
+      },
+      {
+        "date": "4/21",
+        "text": "📝 Jet drafted 'Podcast Outline: Supplement Brands, What's Working in 2026' (10:16am ET)"
+      },
+      {
+        "date": "4/20",
+        "text": "✅ MentorPass: Sterling & Nik — Session WRAPPED 4:30-5:30pm ET"
+      }
     ],
-    people: [
-      { initials: "LN", name: "Lauren", role: "CEO" },
-      { initials: "KR", name: "Kate Richards", role: "Love Wellness" },
-      { initials: "JT", name: "Jainy Tong", role: "Love Wellness" },
-      { initials: "CH", name: "Caroline Haber", role: "Love Wellness" }
+    "people": [
+      {
+        "initials": "NM",
+        "name": "Natalie Mayr",
+        "role": "CSM, Workweek"
+      },
+      {
+        "initials": "HS",
+        "name": "Hanna Sender",
+        "role": "Production"
+      },
+      {
+        "initials": "GM",
+        "name": "Germana",
+        "role": "Email/Sailthru"
+      },
+      {
+        "initials": "LS",
+        "name": "Louisa",
+        "role": "Sales"
+      },
+      {
+        "initials": "JP",
+        "name": "Josh Payne",
+        "role": "Onward (sponsor lead)"
+      }
     ],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-04-20"
+    "upcomingEvents": [
+      {
+        "date": "Sun 5/3",
+        "event": "Next Limited Supply send"
+      },
+      {
+        "date": "Tue 4/21 11:30am",
+        "event": "🎙️ Limited Supply Podcast Recording (LIVE NOW)"
+      },
+      {
+        "date": "Sun 4/26",
+        "event": "📰 Next newsletter — VOTW 'Ecommerce Equation' (Josiah) draft awaiting Nik review"
+      }
+    ],
+    "links": [
+      {
+        "type": "💬",
+        "label": "#nik-workweek",
+        "url": "#"
+      },
+      {
+        "type": "💬",
+        "label": "#limitedsupply_hq",
+        "url": "#"
+      },
+      {
+        "type": "📁",
+        "label": "Drive Drafts",
+        "url": "#"
+      }
+    ],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
-    name: "Air Oasis",
-    desc: "Client - growth and paid media.",
-    currentStatus: "🚨 Homepage deadline PASSED (Fri 4/10) — 18 days overdue (Tue 4/28 3pm). 📧 Boring Ecom invoice from Joe Siegel (flow build). Marketing emails still active. No homepage follow-up visible. Needs action.",
-    recentActivity: [
-      { date: "4/19", text: "🚨 Homepage 9 days overdue — still no follow-up visible" },
-      { date: "4/17", text: "📧 Boring Ecom invoice from Joe Siegel — flow build" },
-      { date: "4/17", text: "📧 Parachute Home: Special Earth Week in-store offer (4/17)" },
-      { date: "4/17", text: "📧 Air Oasis marketing email active (oak season campaign) despite overdue homepage" },
-      { date: "4/10", text: "🚨 Homepage deadline passed — was due end of week (Friday 4/10)" },
-      { date: "3/10", text: "Routine performance review" }
+    "name": "After Ours / Pigeon House Records",
+    "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
+    "currentStatus": "Wed 4/29 2:00pm ET. No fresh Fireflies transcript found for the expected 4/28 AO Sync, so treat recap as missing/not captured rather than complete. AO Studio Time tonight 7:00-10:00pm. Post-show media/assets and afterourssound.com refresh still pending review.",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🎧 AO Studio Time on calendar tonight 7:00-10:00pm"
+      },
+      {
+        "date": "4/29",
+        "text": "⚠️ Fireflies check: no 4/28 After Ours Sync transcript found — recap/cadence still unresolved"
+      },
+      {
+        "date": "4/23",
+        "text": "Post-show Day 5 — pro media/videographer assets still owed"
+      },
+      {
+        "date": "4/22",
+        "text": "✅ AO Studio 5-6pm + 7-10pm both WRAPPED • Zagged Dinner 8-10:15pm (Simon Wool)"
+      },
+      {
+        "date": "4/21",
+        "text": "✅ After Ours Sync WRAPPED 2:00-3:00pm ET — Fireflies recap delivered 2:51pm"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-04-10",
-    alert: "🚨 Homepage deadline 9 days overdue — needs follow-up"
+    "people": [
+      {
+        "initials": "MN",
+        "name": "Minul",
+        "role": "Collaborator"
+      },
+      {
+        "initials": "PC",
+        "name": "Paul Campbell",
+        "role": "Music Manager (NÜ MGMT)"
+      },
+      {
+        "initials": "TO",
+        "name": "Troy Osinoff",
+        "role": "Pigeon animations"
+      },
+      {
+        "initials": "BL",
+        "name": "Brandon Launerts",
+        "role": "Social/Content"
+      }
+    ],
+    "upcomingEvents": [
+      {
+        "date": "Wed 4/29 7:00pm",
+        "event": "AO Studio Time (7-10pm)"
+      },
+      {
+        "date": "Wed 4/22",
+        "event": "✅ AO Studio Time (5-6pm + 7-10pm) — WRAPPED"
+      },
+      {
+        "date": "This week",
+        "event": "Pull videographer assets from Somewhere Nowhere NYC show"
+      },
+      {
+        "date": "Next week",
+        "event": "Lifestyle shoot NYC (evening, evergreen content)"
+      }
+    ],
+    "links": [],
+    "decisions": [
+      {
+        "date": "4/14",
+        "text": "Sound direction pivot: dropped 3 older tracks. Keeping Future Classic, Flashback, No Control."
+      },
+      {
+        "date": "4/14",
+        "text": "Content strategy split: IG feed = credible only. TikTok = flood. IG stories = repost TikTok."
+      },
+      {
+        "date": "4/14",
+        "text": "Caption A/B test: Brandon creating two sets — engagement-optimized vs brand-aligned."
+      },
+      {
+        "date": "4/14",
+        "text": "Paul/NÜ MGMT booking videographer from Catchy show for Saturday's NYC gig."
+      },
+      {
+        "date": "4/11",
+        "text": "Afro House campaign: TikTok + IG targeting, viral video-first strategy"
+      }
+    ],
+    "status": "attention",
+    "updated": "2026-04-29T18:00:00Z",
+    "alert": "AO Studio tonight 7-10pm • 4/28 sync transcript missing",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
-    name: "AquaTru",
-    desc: "Client - growth and paid media.",
-    currentStatus: "Ongoing management and optimization",
-    recentActivity: [
-      { date: "3/10", text: "Routine performance review" }
+    "name": "Lunar Solar Group (CGO)",
+    "desc": "Chief Growth Officer - post-acquisition of Sharma Brands (Oct 2025).",
+    "currentStatus": "WA Dept of Revenue action required for Sharma Brands Inc. ✅ sharmabrands.com renewal placed 4/14 ($49.17). TEXTNIK.CO auto-renews 5/10 ($51.99). Namecheap API connected.",
+    "recentActivity": [
+      {
+        "date": "4/14",
+        "text": "✅ sharmabrands.com renewal placed via GoDaddy ($49.17)"
+      },
+      {
+        "date": "4/12",
+        "text": "🚨 GoDaddy: sharmabrands.com domain expires in ~16 days - renewal notice received"
+      },
+      {
+        "date": "4/11",
+        "text": "🆕 WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506) - secure.dor.wa.gov"
+      },
+      {
+        "date": "4/10",
+        "text": "🆕 GoDaddy renewal notice: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
+      },
+      {
+        "date": "4/10",
+        "text": "Ahrefs: nik.co health score 87 - 1 new slow page flagged"
+      },
+      {
+        "date": "4/9",
+        "text": "✅ ClickUp: YOY Net Rev Change task closed by Brad"
+      },
+      {
+        "date": "4/9",
+        "text": "✅ Lunar: Ideal Living Weekly Leadership TB completed (3:30pm)"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-03-14"
+    "people": [
+      {
+        "initials": "KM",
+        "name": "Keith Martin",
+        "role": "LSG Team"
+      },
+      {
+        "initials": "PK",
+        "name": "Pierson Krass",
+        "role": "LSG Team"
+      },
+      {
+        "initials": "LK",
+        "name": "Lauren Keller",
+        "role": "Marketing"
+      },
+      {
+        "initials": "NP",
+        "name": "Nathan Pettijohn",
+        "role": "Ask JBH Podcast"
+      },
+      {
+        "initials": "AD",
+        "name": "Alisha Desai",
+        "role": "Dublin DECA"
+      },
+      {
+        "initials": "AR",
+        "name": "Amanda Rodriguez",
+        "role": "Prio Freedom"
+      }
+    ],
+    "upcomingEvents": [
+      {
+        "date": "Sun 4/13 4pm",
+        "event": "Daily: Lunar x SB sync"
+      }
+    ],
+    "links": [],
+    "decisions": [
+      {
+        "date": "4/3",
+        "text": "BD3 dissolution wiring details received - final distribution to Sharma Brands"
+      }
+    ],
+    "status": "active",
+    "updated": "2026-04-11",
+    "alert": "⚠️ WA DOR action required"
   },
   {
-    name: "Fitness / Hyrox",
-    desc: "Training at The Fort (21st St NYC).",
-    currentStatus: "✅ Fort session done this morning (Mon 4/20 10am) — first back in NYC. Strength Training booked Tue 4/21 10am (confirmed 4:33pm).",
-    recentActivity: [
-      { date: "4/20", text: "✅ Fort Strength Training confirmed for Tue 4/21 10am (Pike13 confirmation 4:33pm)" },
-      { date: "4/20", text: "✅ Fort session completed 10-11am — first session back in NYC" },
-      { date: "4/6", text: "✅ Fort session completed (10-11am)" },
-      { date: "4/6", text: "✅ Mold guys at apartment completed (12-2pm)" },
-      { date: "4/6", text: "✅ Dinner at ilili Nomad (7pm)" },
-      { date: "3/23", text: "THE FORT membership billed — receipt #208201" }
+    "name": "Love Wellness",
+    "desc": "Client - DTC growth and performance marketing.",
+    "currentStatus": "📧 Minul 'Love Wellness x Nik Sharma' inbound 4/20 2:40pm — likely scope update. Caroline Haber: Weekly Web Sync L//S <> Love Wellness completed (4/3). Marpipe × Jainy intro thread at 14 messages.",
+    "recentActivity": [
+      {
+        "date": "4/20",
+        "text": "📧 Minul 'Love Wellness x Nik Sharma' inbound 2:40pm — review & respond"
+      },
+      {
+        "date": "4/3",
+        "text": "Caroline Haber: Weekly Web Sync L//S <> Love Wellness"
+      },
+      {
+        "date": "4/3",
+        "text": "Marpipe × Jainy intro thread now at 14 messages - still active"
+      },
+      {
+        "date": "3/18",
+        "text": "Jainy x Nik bi-weekly sync completed (11:30am)"
+      },
+      {
+        "date": "3/17",
+        "text": "Intro email sent: Dan (Marpipe) × Jainy (Love Wellness)"
+      },
+      {
+        "date": "3/16",
+        "text": "Allyn (Oceans Talent) followed up - need decision on Afzal hire"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-
-    links: [],
-    decisions: [],
-    countdown: { label: "Hyrox NYC", date: "2026-06-07" },
-    status: "active",
-    updated: "2026-04-07"
+    "people": [
+      {
+        "initials": "LN",
+        "name": "Lauren",
+        "role": "CEO"
+      },
+      {
+        "initials": "KR",
+        "name": "Kate Richards",
+        "role": "Love Wellness"
+      },
+      {
+        "initials": "JT",
+        "name": "Jainy Tong",
+        "role": "Love Wellness"
+      },
+      {
+        "initials": "CH",
+        "name": "Caroline Haber",
+        "role": "Love Wellness"
+      }
+    ],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-04-20"
   },
   {
-    name: "CRM System",
-    desc: "Relationship management - 140 contacts, 24 ping-eligible.",
-    currentStatus: "Full audit complete. System running autonomously.",
-    recentActivity: [
-      { date: "3/14", text: "CRM audit: 22 contacts adjusted, 24 final ping-eligible" },
-      { date: "3/14", text: "Created daily digest + nightly ingestion crons" },
-      { date: "3/14", text: "Full backfill: 21 new contacts, ~30 updated" }
+    "name": "Air Oasis",
+    "desc": "Client - growth and paid media.",
+    "currentStatus": "🚨 Homepage deadline PASSED (Fri 4/10) — 18 days overdue (Tue 4/28 3pm). 📧 Boring Ecom invoice from Joe Siegel (flow build). Marketing emails still active. No homepage follow-up visible. Needs action.",
+    "recentActivity": [
+      {
+        "date": "4/19",
+        "text": "🚨 Homepage 9 days overdue — still no follow-up visible"
+      },
+      {
+        "date": "4/17",
+        "text": "📧 Boring Ecom invoice from Joe Siegel — flow build"
+      },
+      {
+        "date": "4/17",
+        "text": "📧 Parachute Home: Special Earth Week in-store offer (4/17)"
+      },
+      {
+        "date": "4/17",
+        "text": "📧 Air Oasis marketing email active (oak season campaign) despite overdue homepage"
+      },
+      {
+        "date": "4/10",
+        "text": "🚨 Homepage deadline passed — was due end of week (Friday 4/10)"
+      },
+      {
+        "date": "3/10",
+        "text": "Routine performance review"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [
-      { date: "3/14", text: "Downgraded vendor/operational contacts, upgraded Dan (5), Dimitrios (4), Rasheen (4)" }
-    ],
-    status: "active",
-    updated: "2026-03-14"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-04-10",
+    "alert": "🚨 Homepage deadline 9 days overdue — needs follow-up"
   },
   {
-    name: "Josiah the Writer",
-    desc: "AI writing partner (@JosiahWriter_bot, Opus). 18K-word voice guide.",
-    currentStatus: "Just launched. Ready for first assignment.",
-    recentActivity: [
-      { date: "3/14", text: "Bot created and live on Telegram" },
-      { date: "3/14", text: "Style guide + newsletter knowledge base loaded" }
+    "name": "AquaTru",
+    "desc": "Client - growth and paid media.",
+    "currentStatus": "Ongoing management and optimization",
+    "recentActivity": [
+      {
+        "date": "3/10",
+        "text": "Routine performance review"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-03-14"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-03-14"
   },
   {
-    name: "Printing Press",
-    desc: "AI content engine. Telegram bot (@printingpressnikbot, Opus).",
-    currentStatus: "Operational. Awaiting content calendar feed.",
-    recentActivity: [
-      { date: "3/10", text: "System operational" }
+    "name": "Fitness / Hyrox",
+    "desc": "Training at The Fort (21st St NYC).",
+    "currentStatus": "✅ Fort session done this morning (Mon 4/20 10am) — first back in NYC. Strength Training booked Tue 4/21 10am (confirmed 4:33pm).",
+    "recentActivity": [
+      {
+        "date": "4/20",
+        "text": "✅ Fort Strength Training confirmed for Tue 4/21 10am (Pike13 confirmation 4:33pm)"
+      },
+      {
+        "date": "4/20",
+        "text": "✅ Fort session completed 10-11am — first session back in NYC"
+      },
+      {
+        "date": "4/6",
+        "text": "✅ Fort session completed (10-11am)"
+      },
+      {
+        "date": "4/6",
+        "text": "✅ Mold guys at apartment completed (12-2pm)"
+      },
+      {
+        "date": "4/6",
+        "text": "✅ Dinner at ilili Nomad (7pm)"
+      },
+      {
+        "date": "3/23",
+        "text": "THE FORT membership billed — receipt #208201"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "active",
-    updated: "2026-03-14"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "countdown": {
+      "label": "Hyrox NYC",
+      "date": "2026-06-07"
+    },
+    "status": "active",
+    "updated": "2026-04-07"
   },
   {
-    name: "Project Tracker",
-    desc: "Command Center + YoSharma dashboards. PWA-ready.",
-    currentStatus: "Live at dash.nik.co",
-    recentActivity: [
-      { date: "3/14", text: "v2 shipped: pattern lock, PWA, rich status cards" },
-      { date: "3/14", text: "Both dashboards deployed to niksharma.co subdomains" }
+    "name": "CRM System",
+    "desc": "Relationship management - 140 contacts, 24 ping-eligible.",
+    "currentStatus": "Full audit complete. System running autonomously.",
+    "recentActivity": [
+      {
+        "date": "3/14",
+        "text": "CRM audit: 22 contacts adjusted, 24 final ping-eligible"
+      },
+      {
+        "date": "3/14",
+        "text": "Created daily digest + nightly ingestion crons"
+      },
+      {
+        "date": "3/14",
+        "text": "Full backfill: 21 new contacts, ~30 updated"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [
-      { type: "🔗", label: "Command Center", url: "https://pjm-board.niksharma.co" },
-      { type: "🔗", label: "YoSharma", url: "https://yosharma.niksharma.co" }
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [
+      {
+        "date": "3/14",
+        "text": "Downgraded vendor/operational contacts, upgraded Dan (5), Dimitrios (4), Rasheen (4)"
+      }
     ],
-    decisions: [],
-    status: "active",
-    updated: "2026-03-14"
+    "status": "active",
+    "updated": "2026-03-14"
   },
   {
-    name: "Vitamin Shoppe / Mike Forbes",
-    desc: "Consulting engagement - website optimization, Meta ads, DTC strategy. Mike Forbes (CSO).",
-    currentStatus: "Strategy call completed - discussed site optimization (search bar, product pages, Shop Pay), Meta ad creative testing, catalog ads with dynamic overlays. NYC follow-up pending scheduling. Flexible consulting engagement being scoped.",
-    recentActivity: [
-      { date: "3/14", text: "Mike x Nik strategy call - website, Meta ads, catalog ads, Shop Pay discussed" },
-      { date: "3/14", text: "Monica scheduling in-person NYC follow-up for next week" },
-      { date: "3/13", text: "Rameez emailed Heather with proposed times" }
+    "name": "Josiah the Writer",
+    "desc": "AI writing partner (@JosiahWriter_bot, Opus). 18K-word voice guide.",
+    "currentStatus": "Just launched. Ready for first assignment.",
+    "recentActivity": [
+      {
+        "date": "3/14",
+        "text": "Bot created and live on Telegram"
+      },
+      {
+        "date": "3/14",
+        "text": "Style guide + newsletter knowledge base loaded"
+      }
     ],
-    people: [
-      { initials: "MF", name: "Mike Forbes", role: "CSO, Vitamin Shoppe" },
-      { initials: "HP", name: "Heather Powers", role: "Assistant to Mike" },
-      { initials: "MN", name: "Monica", role: "Mike's Assistant" },
-      { initials: "RZ", name: "Rameez", role: "Operations" }
-    ],
-    upcomingEvents: [],
-    links: [],
-    decisions: [
-      { date: "3/14", text: "Focus on iterative improvements over massive redesign - quick creative testing cycles" },
-      { date: "3/14", text: "Catalog ads with dynamic overlays identified as quick win for Meta" }
-    ],
-    status: "active",
-    updated: "2026-04-07"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-03-14"
   },
   {
-    name: "Beekeeper's Naturals",
-    desc: "Client - website rebuild proposal from March 3 meeting.",
-    currentStatus: "Keith followed up. No response from BKN yet.",
-    recentActivity: [
-      { date: "3/14", text: "Keith followed up with Lindsey Shedd" },
-      { date: "3/3", text: "Initial rebuild proposal meeting" }
+    "name": "Printing Press",
+    "desc": "AI content engine. Telegram bot (@printingpressnikbot, Opus).",
+    "currentStatus": "Operational. Awaiting content calendar feed.",
+    "recentActivity": [
+      {
+        "date": "3/10",
+        "text": "System operational"
+      }
     ],
-    people: [
-      { initials: "KM", name: "Keith Martin", role: "LSG Team" },
-      { initials: "LS", name: "Lindsey Shedd", role: "BKN" }
-    ],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "waiting",
-    updated: "2026-03-13"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-03-14"
   },
   {
-    name: "Publisher Domains",
-    desc: "24 domains across verticals ($608). Ready for content deployment.",
-    currentStatus: "On hold pending Household Proof buildout.",
-    recentActivity: [
-      { date: "3/8", text: "All 24 domains purchased and registered" }
+    "name": "Project Tracker",
+    "desc": "Command Center + YoSharma dashboards. PWA-ready.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Dashboard refresh pulled Google Calendar/Gmail, Fireflies recent transcripts, and Slack priority channels. Slack priority channels returned no new post-2pm messages. Main updates: Macra Chase access, Highbeam sponsor follow-up, AO sync transcript missing, tomorrow calendar staged.",
+    "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔄 2pm dashboard refresh: Calendar/Gmail/Fireflies/Slack checked; dashboards + widget JSON regenerated"
+      },
+      {
+        "date": "3/14",
+        "text": "v2 shipped: pattern lock, PWA, rich status cards"
+      },
+      {
+        "date": "3/14",
+        "text": "Both dashboards deployed to niksharma.co subdomains"
+      }
     ],
-    people: [],
-    upcomingEvents: [],
-    links: [],
-    decisions: [],
-    status: "paused",
-    updated: "2026-03-10"
+    "people": [],
+    "upcomingEvents": [],
+    "links": [
+      {
+        "type": "🔗",
+        "label": "Command Center",
+        "url": "https://pjm-board.niksharma.co"
+      },
+      {
+        "type": "🔗",
+        "label": "YoSharma",
+        "url": "https://yosharma.niksharma.co"
+      }
+    ],
+    "decisions": [],
+    "status": "active",
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
+  },
+  {
+    "name": "Vitamin Shoppe / Mike Forbes",
+    "desc": "Consulting engagement - website optimization, Meta ads, DTC strategy. Mike Forbes (CSO).",
+    "currentStatus": "Strategy call completed - discussed site optimization (search bar, product pages, Shop Pay), Meta ad creative testing, catalog ads with dynamic overlays. NYC follow-up pending scheduling. Flexible consulting engagement being scoped.",
+    "recentActivity": [
+      {
+        "date": "3/14",
+        "text": "Mike x Nik strategy call - website, Meta ads, catalog ads, Shop Pay discussed"
+      },
+      {
+        "date": "3/14",
+        "text": "Monica scheduling in-person NYC follow-up for next week"
+      },
+      {
+        "date": "3/13",
+        "text": "Rameez emailed Heather with proposed times"
+      }
+    ],
+    "people": [
+      {
+        "initials": "MF",
+        "name": "Mike Forbes",
+        "role": "CSO, Vitamin Shoppe"
+      },
+      {
+        "initials": "HP",
+        "name": "Heather Powers",
+        "role": "Assistant to Mike"
+      },
+      {
+        "initials": "MN",
+        "name": "Monica",
+        "role": "Mike's Assistant"
+      },
+      {
+        "initials": "RZ",
+        "name": "Rameez",
+        "role": "Operations"
+      }
+    ],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [
+      {
+        "date": "3/14",
+        "text": "Focus on iterative improvements over massive redesign - quick creative testing cycles"
+      },
+      {
+        "date": "3/14",
+        "text": "Catalog ads with dynamic overlays identified as quick win for Meta"
+      }
+    ],
+    "status": "active",
+    "updated": "2026-04-07"
+  },
+  {
+    "name": "Beekeeper's Naturals",
+    "desc": "Client - website rebuild proposal from March 3 meeting.",
+    "currentStatus": "Keith followed up. No response from BKN yet.",
+    "recentActivity": [
+      {
+        "date": "3/14",
+        "text": "Keith followed up with Lindsey Shedd"
+      },
+      {
+        "date": "3/3",
+        "text": "Initial rebuild proposal meeting"
+      }
+    ],
+    "people": [
+      {
+        "initials": "KM",
+        "name": "Keith Martin",
+        "role": "LSG Team"
+      },
+      {
+        "initials": "LS",
+        "name": "Lindsey Shedd",
+        "role": "BKN"
+      }
+    ],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "waiting",
+    "updated": "2026-03-13"
+  },
+  {
+    "name": "Publisher Domains",
+    "desc": "24 domains across verticals ($608). Ready for content deployment.",
+    "currentStatus": "On hold pending Household Proof buildout.",
+    "recentActivity": [
+      {
+        "date": "3/8",
+        "text": "All 24 domains purchased and registered"
+      }
+    ],
+    "people": [],
+    "upcomingEvents": [],
+    "links": [],
+    "decisions": [],
+    "status": "paused",
+    "updated": "2026-03-10"
   }
 ];
 

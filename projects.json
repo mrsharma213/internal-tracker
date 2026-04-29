@@ -2,9 +2,13 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Wed 4/29 12pm. ✅ Zurp Check-In WRAPPED 4/28 11:30am-12pm — recap owed. 🎯 The Ave x ZURP Docusign EXECUTED 4/28 1:52pm — new venue locked, kick off rollout w/ Dimitri. Troy invite 'Zurp — Finalize Transaction Bonus Plan' Mon 5/4 3:30-4pm pending review. Alec Docusign Day 7. Jack <> Troy <> Nik recap Day 7. UnKommon Miami signature monitor.",
-    "alert": "🎯 Ave x ZURP EXECUTED • Troy: Bonus Plan Mon 5/4 • Alec Docusign Day 7",
+    "currentStatus": "Wed 4/29 2:00pm ET. Zurp Check-In decisions captured: ordering 8 battery units at $1,900/unit with ~45-day lead time; MSG Afters locked; moving/storage logistics still active; transaction bonus plan review still pending before lawyer submission. Next YoSharma Check-In Thu 1:30pm.",
+    "alert": "8 battery units / 45-day lead • Bonus plan review pending • YoSharma Thu 1:30pm",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "📞 Fireflies recap captured: 8 units @ $1,900 each, 45-day lead time; MSG Afters locked; logistics/storage workstream active"
+      },
       {
         "date": "4/28",
         "text": "🎯 Docusign 1:52pm: 'The Ave x ZURP 4.28.26.docx' COMPLETED — fully executed, new venue locked"
@@ -20,70 +24,6 @@
       {
         "date": "4/24",
         "text": "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik"
-      },
-      {
-        "date": "4/24",
-        "text": "📅 Calendar changed from Cordell<>Troy<>Nik to Amoria meet; capture post-call next steps"
-      },
-      {
-        "date": "4/24",
-        "text": "🔥 NOW 5pm ET: Cordell <> Troy <> Nik — LIVE"
-      },
-      {
-        "date": "4/24",
-        "text": "💸 Mercury 2:27pm: Minul $240 wire → Zhangjiagang Melcorp (hardware supplier)"
-      },
-      {
-        "date": "4/23",
-        "text": "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm — signature still pending (20h+)"
-      },
-      {
-        "date": "4/23",
-        "text": "⏳ Jack <> Troy <> Nik recap/next steps still pending — Day 2 overdue"
-      },
-      {
-        "date": "4/22",
-        "text": "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET — recap pending"
-      },
-      {
-        "date": "4/22",
-        "text": "📅 Troy Osinoff replied 9:41am on 'Troy x Jack' invite thread (26 msgs)"
-      },
-      {
-        "date": "4/21",
-        "text": "🆕 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET — Miami expansion"
-      },
-      {
-        "date": "4/21",
-        "text": "📧 Rameez outreach to Noah @ Common Country Bar 2:44pm ET — new venue pitch"
-      },
-      {
-        "date": "4/21",
-        "text": "✅ Zurp Check-In WRAPPED 1:30-2:00pm ET"
-      },
-      {
-        "date": "4/20",
-        "text": "🎉 Victor Calderone residency weekend wrapped — pulling results at Zurp Check-In Tue 4/21"
-      },
-      {
-        "date": "4/19",
-        "text": "🎛️ Victor Calderone residency weekend — indoor unit in field"
-      },
-      {
-        "date": "4/16",
-        "text": "📅 Zurp Check-In completed 2:30pm ET"
-      },
-      {
-        "date": "4/15",
-        "text": "📧 Follow-up email sent to Remy at Refuge for charger placement"
-      },
-      {
-        "date": "4/15",
-        "text": "✅ March legal invoice (Robert Freund Law) paid by Minul"
-      },
-      {
-        "date": "4/14",
-        "text": "✅ Zurp Check-In completed (11:30am ET)"
       }
     ],
     "people": [
@@ -130,6 +70,10 @@
     ],
     "upcomingEvents": [
       {
+        "date": "Thu 4/30 1:30pm",
+        "event": "YoSharma Check-In"
+      },
+      {
         "date": "✅ Fri 4/24 5:30pm",
         "event": "Amoria/Cordell meet — WRAPPED (recap owed)"
       },
@@ -147,6 +91,10 @@
     ],
     "decisions": [
       {
+        "date": "4/28",
+        "text": "Proceed with ordering eight battery units at $1,900/unit despite 45-day lead time to cover summer demand."
+      },
+      {
         "date": "4/15",
         "text": "Indoor unit (24 batteries) confirmed ready for Victor Calderone residency this weekend"
       },
@@ -161,14 +109,11 @@
       {
         "date": "4/8",
         "text": "Zurp x Refuge call + Arx <> Troy + Nik both completed - awaiting next steps"
-      },
-      {
-        "date": "3/14",
-        "text": "Gospel NYC confirmed as flagship venue - unit placement as soon as contract signed"
       }
     ],
     "status": "active",
-    "updated": "2026-04-29T12:03"
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "Authentiq",
@@ -329,9 +274,17 @@
   {
     "name": "GoodOnya Organic",
     "desc": "New client - paid media strategy for collagen launch.",
-    "currentStatus": "✍️ Nicole Rose inbound 9:57am 4/22 — 'Copywriter recs for GoodOnya' (3 msgs, IMPORTANT + Action label). Needs response. GoodOnya x Nik meeting completed 3/19.",
-    "alert": "Nicole Rose 'Copywriter recs for GoodOnya' — 3 msgs thread, IMPORTANT + Action (4/22 9:57am). Needs response.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Matt x Nik Fireflies captured: GoodOnYa exploring local bank credit lines + Highbeam financing, planning $150K-$200K paid marketing budget, and needs a lean funnel/retargeting plan. Matt to share docs/email flows/Miro; Nik owes David Siegel/Highbeam intro, Klaviyo review, phased funnel plan, and follow-up early next week.",
+    "alert": "Matt to share docs • Nik owes Highbeam intro + phased paid funnel plan",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🧩 Nik action items: Highbeam intro, Klaviyo review after docs, lean funnel/retargeting proposal, follow-up early next week"
+      },
+      {
+        "date": "4/29",
+        "text": "📞 Fireflies: Matt x Nik — financing via local banks/Highbeam + $150K-$200K paid marketing plan discussed"
+      },
       {
         "date": "4/22",
         "text": "✍️ Nicole Rose inbound 9:57am — 'Copywriter recs for GoodOnya' (3 msgs, IMPORTANT + Action)"
@@ -343,18 +296,6 @@
       {
         "date": "3/19",
         "text": "Matt Jung email thread active - 13 messages in GoodOnya thread"
-      },
-      {
-        "date": "3/16",
-        "text": "Strategy call held at 12pm - Nicole on the call"
-      },
-      {
-        "date": "3/16",
-        "text": "Nicole confirmed today's noon call - Matt will try to join"
-      },
-      {
-        "date": "3/15",
-        "text": "Rameez sent second follow-up to Matt - asking him to confirm a slot"
       }
     ],
     "people": [
@@ -376,15 +317,25 @@
     ],
     "upcomingEvents": [],
     "links": [],
-    "decisions": [],
+    "decisions": [
+      {
+        "date": "4/28",
+        "text": "GoodOnYa growth plan shifts from mostly organic to a lean paid funnel/retargeting system with minimal overhead."
+      }
+    ],
     "status": "active",
-    "updated": "2026-04-22"
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "Kids Vitamin Brand",
     "desc": "Early-stage, self-funded. ~4 month launch timeline.",
-    "currentStatus": "Tue 4/28 3pm. 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc still owed Nik review (Day 2, ~28h in inbox since Mon 11:10am) — first major artifact since 3/14 scoping.",
+    "currentStatus": "Wed 4/29 2:00pm ET. Left Lane/brand-incubator thesis remains the active next step: equity-split + CEO-per-brand framework doc owed. Scout Kids Need-Based Supplements opportunity doc still needs review; supplements/skincare remain top-ranked categories from Left Lane brainstorm.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🧠 Left Lane thesis: portfolio brand-incubator, 3-4 month validation cycles, CEO per brand, supplements/skincare ranked highest"
+      },
       {
         "date": "4/27",
         "text": "📄 Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' Google Doc — review owed"
@@ -413,8 +364,9 @@
       "date": "2026-07-14"
     },
     "status": "active",
-    "updated": "2026-04-27",
-    "alert": "📄 Scout opportunity assessment doc Day 1+ — review still owed"
+    "updated": "2026-04-29T18:00:00Z",
+    "alert": "📄 Scout opportunity assessment doc Day 1+ — review still owed",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "Household Proof",
@@ -456,8 +408,12 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "Wed 4/29 12pm. ✅ Both LS pod recordings WRAPPED this week (Mon 7-8:15pm + Tue 12-1pm). Newsletter sent Sun 4/26 7:20pm ET — open/click data ~63h post-send (still pending pull). Episode release TODAY (Wed cadence). Next send Sun 5/3 (4 days).",
+    "currentStatus": "Wed 4/29 2:00pm ET. Newsletter sent Sun 4/26; open/click data still pending pull. Instant x Nik Fireflies captured attribution-window follow-up for Harper Wilde; Colin/Natalie Instant draft comments remain the active Workweek thread. Next send Sun 5/3.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "📞 Instant x Nik Fireflies: attribution-window feature discussed; Nik to check Harper Wilde Klaviyo settings and follow up"
+      },
       {
         "date": "4/21",
         "text": "🎙️ Asher Brooks (Theorist Studios) 'would love to have you on the pod' — inbound 12:38pm"
@@ -473,38 +429,6 @@
       {
         "date": "4/20",
         "text": "✅ MentorPass: Sterling & Nik — Session WRAPPED 4:30-5:30pm ET"
-      },
-      {
-        "date": "4/20",
-        "text": "✅ Limited Supply Podcast Recording 7:00-8:15pm ET WRAPPED"
-      },
-      {
-        "date": "4/20",
-        "text": "✅ Paramount x Nik 4/29 VE Prep wrapped 3:00-3:30pm — doc feedback received (not accurate, needs 10k budget)"
-      },
-      {
-        "date": "4/19",
-        "text": "✅ Newsletter SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'"
-      },
-      {
-        "date": "4/19",
-        "text": "✅ Record Workweek wrapped 2pm ET • Nik x Joe 12pm done"
-      },
-      {
-        "date": "4/16",
-        "text": "📅 Paramount Dashboard review completed 3:30pm"
-      },
-      {
-        "date": "4/15",
-        "text": "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing"
-      },
-      {
-        "date": "4/12",
-        "text": "✅ 'Affiliate marketing, done right' newsletter sent"
-      },
-      {
-        "date": "4/11",
-        "text": "🆕 Rameez followed up with Vinay Sridhar (Reddit) — podcast recording 4/21 or 4/22"
       }
     ],
     "people": [
@@ -536,6 +460,10 @@
     ],
     "upcomingEvents": [
       {
+        "date": "Sun 5/3",
+        "event": "Next Limited Supply send"
+      },
+      {
         "date": "Tue 4/21 11:30am",
         "event": "🎙️ Limited Supply Podcast Recording (LIVE NOW)"
       },
@@ -563,13 +491,22 @@
     ],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-29T12:03"
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "Wed 4/29 12pm. ✅ After Ours Sync WRAPPED 4/28 2-3pm — recap/next steps owed (Day 1). Post-show Day 11 from Somewhere Nowhere. Manus afterourssound.com refresh still pending review. CG Videos $650 paid 4/27 — watch for asset delivery. 🎙️ AO Studio Time TODAY 5-6pm + 7-10pm.",
+    "currentStatus": "Wed 4/29 2:00pm ET. No fresh Fireflies transcript found for the expected 4/28 AO Sync, so treat recap as missing/not captured rather than complete. AO Studio Time tonight 7:00-10:00pm. Post-show media/assets and afterourssound.com refresh still pending review.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🎧 AO Studio Time on calendar tonight 7:00-10:00pm"
+      },
+      {
+        "date": "4/29",
+        "text": "⚠️ Fireflies check: no 4/28 After Ours Sync transcript found — recap/cadence still unresolved"
+      },
       {
         "date": "4/23",
         "text": "Post-show Day 5 — pro media/videographer assets still owed"
@@ -581,34 +518,6 @@
       {
         "date": "4/21",
         "text": "✅ After Ours Sync WRAPPED 2:00-3:00pm ET — Fireflies recap delivered 2:51pm"
-      },
-      {
-        "date": "4/21",
-        "text": "✅ Call Alec / Afters WRAPPED 8:00pm ET"
-      },
-      {
-        "date": "4/20",
-        "text": "📅 After Ours Sync scheduled Tue 4/21 2:00pm ET"
-      },
-      {
-        "date": "4/19",
-        "text": "✅ Somewhere Nowhere NYC show wrapped ~2am — opened for Moojo"
-      },
-      {
-        "date": "4/18",
-        "text": "🎧 Show LIVE at Somewhere Nowhere NYC (10PM–2AM opening Moojo)"
-      },
-      {
-        "date": "4/18",
-        "text": "✅ Nik landed JFK (B6 816 SFO→JFK) — back in NYC"
-      },
-      {
-        "date": "4/17",
-        "text": "✅ YC launch party SF 7:45pm — private DJ set played"
-      },
-      {
-        "date": "4/17",
-        "text": "🔊 SoundCloud: 'Rise & Shine' / 'Future Classic' LIVE"
       }
     ],
     "people": [
@@ -634,6 +543,10 @@
       }
     ],
     "upcomingEvents": [
+      {
+        "date": "Wed 4/29 7:00pm",
+        "event": "AO Studio Time (7-10pm)"
+      },
       {
         "date": "Wed 4/22",
         "event": "✅ AO Studio Time (5-6pm + 7-10pm) — WRAPPED"
@@ -670,9 +583,10 @@
         "text": "Afro House campaign: TikTok + IG targeting, viral video-first strategy"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-29T12:03",
-    "alert": "AO Sync recap Day 1 owed • 🎙️ Studio Time TODAY 5-6pm + 7-10pm"
+    "status": "attention",
+    "updated": "2026-04-29T18:00:00Z",
+    "alert": "AO Studio tonight 7-10pm • 4/28 sync transcript missing",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "Lunar Solar Group (CGO)",
@@ -982,8 +896,12 @@
   {
     "name": "Project Tracker",
     "desc": "Command Center + YoSharma dashboards. PWA-ready.",
-    "currentStatus": "Live at dash.nik.co",
+    "currentStatus": "Wed 4/29 2:00pm ET. Dashboard refresh pulled Google Calendar/Gmail, Fireflies recent transcripts, and Slack priority channels. Slack priority channels returned no new post-2pm messages. Main updates: Macra Chase access, Highbeam sponsor follow-up, AO sync transcript missing, tomorrow calendar staged.",
     "recentActivity": [
+      {
+        "date": "4/29",
+        "text": "🔄 2pm dashboard refresh: Calendar/Gmail/Fireflies/Slack checked; dashboards + widget JSON regenerated"
+      },
       {
         "date": "3/14",
         "text": "v2 shipped: pattern lock, PWA, rich status cards"
@@ -1009,7 +927,8 @@
     ],
     "decisions": [],
     "status": "active",
-    "updated": "2026-03-14"
+    "updated": "2026-04-29T18:00:00Z",
+    "lastUpdated": "2026-04-29T18:00:00Z"
   },
   {
     "name": "Vitamin Shoppe / Mike Forbes",
