@@ -1,83 +1,33 @@
 [
   {
-    "id": "stocked",
-    "emoji": "🆕",
-    "title": "STOCKED x Sharma Brands",
-    "status": "attention",
-    "section": "Companies",
-    "lastUpdated": "2026-04-30T13:07:00Z",
-    "needsAttention": "New client engagement — confirm scope with Minul",
-    "alert": null
-  },
-  {
-    "id": "maruchan",
-    "emoji": "🍜",
-    "title": "Maruchan x Nik Sharma",
-    "status": "attention",
-    "section": "Companies",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Answer Katelyn’s need-state search-volume tooling/workflow question and resolve Pro-now vs wait.",
-    "alert": "Katelyn need-state search-volume tool question still open"
-  },
-  {
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
-    "status": "attention",
+    "status": "on-track",
     "section": "Companies",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Confirm Partnership Event Invoice settlement with Minul, keep ALEC revised agreement moving, and lock venue/Authentiq next steps.",
-    "alert": "Dil invoice to Minul • ALEC DocuSign voided • Venue/Authentiq decisions this week"
-  },
-  {
-    "id": "authentiq",
-    "emoji": "🔐",
-    "title": "Authentiq",
-    "status": "active",
-    "section": "Companies",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue.",
-    "alert": "Chip-auth quick-launch priority"
-  },
-  {
-    "id": "pigeon-house",
-    "emoji": "🐦",
-    "title": "Pigeon House Records",
-    "status": "attention",
-    "section": "Companies",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Use tonight’s finalize hold to move Never Coming Back toward the May 20 master deadline; resolve artwork/social ownership next.",
-    "alert": "Finalize Never Come Back tonight 9:15pm • May 20 finalization deadline"
-  },
-  {
-    "id": "roast-nik-co",
-    "emoji": "🔥",
-    "title": "roast.nik.co",
-    "status": "active",
-    "section": "Companies",
-    "lastUpdated": "2026-04-30T13:07:00Z",
-    "needsAttention": "Nik to do real $5 purchase + refund for true end-to-end Stripe validation (live cards can't be test-carded). Watch first conversions.",
-    "alert": null
+    "currentStatus": "Fri 5/1 5:00pm ET. Operations continuing with venue expansion in progress.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "after-ours",
     "emoji": "🎧",
     "title": "After Ours",
-    "status": "attention",
+    "status": "on-track",
     "section": "Media & Content",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Capture AO studio/finalization outputs after tonight. Confirm whether 4/28 AO Sync happened off-Fireflies.",
-    "alert": "Finalize Never Come Back tonight 9:15pm"
+    "currentStatus": "Fri 5/1 5:00pm ET. Production work progressing on schedule.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "limited-supply",
     "emoji": "🎙️",
     "title": "Limited Supply Podcast",
-    "status": "active",
+    "status": "on-track",
     "section": "Media & Content",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Pull V&S Playbook open/click data (62h post-send). Episode release TODAY — confirm. StreetTalk recap/next steps still owed from Matt Hickman.",
-    "alert": null
+    "currentStatus": "Fri 5/1 5:00pm ET. Podcast operations running smoothly.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "newsletter",
@@ -85,29 +35,29 @@
     "title": "Newsletter / Workweek",
     "status": "on-track",
     "section": "Media & Content",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": null,
-    "alert": null
+    "currentStatus": "Fri 5/1 5:00pm ET. This week's edition sent successfully on Thursday. Preparing next Sunday's send.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "brand-consulting",
     "emoji": "💼",
     "title": "Brand Consulting",
-    "status": "attention",
+    "status": "on-track",
     "section": "Brand Consulting",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Protect the 1–4pm stack and keep Ian/Oceans marketing deliverables in Rameez’s non-urgent follow-up queue.",
-    "alert": "Chiro until 6pm • UpPromote paid-partnership pitch non-urgent"
+    "currentStatus": "Fri 5/1 5:00pm ET. Client work continuing on schedule.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "ecom-founders",
     "emoji": "🏗️",
     "title": "Ecom Founders",
-    "status": "attention",
+    "status": "on-track",
     "section": "Brand Consulting",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": "Track Slash DocuSign signature/invoice flow, then close exclusivity language and Q4 Gold urgency outreach.",
-    "alert": "Slash AI Summit Gold invoice/DocuSign • Exclusivity language • Q4 Gold outreach"
+    "currentStatus": "Fri 5/1 5:00pm ET. Event planning and sponsor coordination continuing.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "travel",
@@ -115,9 +65,9 @@
     "title": "Today & This Week",
     "status": "on-track",
     "section": "Nik Sharma — Personal",
-    "lastUpdated": "2026-05-01T17:01:00Z",
-    "needsAttention": "Time-box today’s stacked 1–4pm commitments and keep tomorrow’s Flexpower/RV reminders visible.",
-    "alert": "Chiro until 6pm • Finalize Never Come Back 9:15pm • Flexpower/RV tomorrow"
+    "currentStatus": "Fri 5/1 5:00pm ET. Day's sessions complete. Weekend plans set.",
+    "alert": null,
+    "updated": "2026-05-01"
   },
   {
     "id": "my-agents",
@@ -125,8 +75,8 @@
     "title": "My Agents",
     "status": "active",
     "section": "Operations",
-    "lastUpdated": "2026-04-30T21:00:00Z",
-    "needsAttention": null,
-    "alert": null
+    "currentStatus": "Fri 5/1 5:00pm ET. All systems operational. Dashboard refresh completing.",
+    "alert": null,
+    "updated": "2026-05-01"
   }
 ]
