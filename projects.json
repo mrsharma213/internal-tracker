@@ -5,9 +5,9 @@
     "title": "Zurp",
     "status": "on-track",
     "section": "Companies",
-    "currentStatus": "Sat 5/2 10:00pm ET. Weekend operations continuing. Transaction bonus plan meeting scheduled for Monday 3:30pm.",
+    "currentStatus": "Sun 5/3 8:00am ET. Sunday morning. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "after-ours",
@@ -15,9 +15,9 @@
     "title": "After Ours",
     "status": "on-track",
     "section": "Media & Content",
-    "currentStatus": "Sat 5/2 10:00pm ET. Production work progressing on schedule.",
+    "currentStatus": "Sun 5/3 8:00am ET. Production work progressing on schedule.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "limited-supply",
@@ -25,19 +25,19 @@
     "title": "Limited Supply Podcast",
     "status": "on-track",
     "section": "Media & Content",
-    "currentStatus": "Sat 5/2 10:00pm ET. Recording sessions scheduled for Monday afternoon/evening.",
+    "currentStatus": "Sun 5/3 8:00am ET. Recording sessions scheduled for tomorrow afternoon/evening.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "newsletter",
     "emoji": "📰",
     "title": "Newsletter / Workweek",
-    "status": "on-track",
+    "status": "attention",
     "section": "Media & Content",
-    "currentStatus": "Sat 5/2 10:00pm ET. Thursday edition sent successfully. Next Sunday send is tomorrow.",
-    "alert": null,
-    "updated": "2026-05-02"
+    "currentStatus": "Sun 5/3 8:00am ET. SEND DAY. Last edition sent Thursday 4/30 noon. Today's edition should be queued/ready.",
+    "alert": "Send day",
+    "updated": "2026-05-03"
   },
   {
     "id": "brand-consulting",
@@ -45,9 +45,9 @@
     "title": "Brand Consulting",
     "status": "on-track",
     "section": "Brand Consulting",
-    "currentStatus": "Sat 5/2 10:00pm ET. Client work continuing on schedule.",
+    "currentStatus": "Sun 5/3 8:00am ET. Client work continuing. Love Wellness Mother's Day campaign active.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "ecom-founders",
@@ -55,9 +55,9 @@
     "title": "Ecom Founders",
     "status": "on-track",
     "section": "Brand Consulting",
-    "currentStatus": "Sat 5/2 10:00pm ET. Event planning and sponsor coordination continuing.",
+    "currentStatus": "Sun 5/3 8:00am ET. Event planning and sponsor coordination continuing.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "travel",
@@ -65,9 +65,9 @@
     "title": "Today & This Week",
     "status": "on-track",
     "section": "Nik Sharma — Personal",
-    "currentStatus": "Sat 5/2 10:00pm ET. Saturday evening winding down. Dog show tomorrow at 3pm, busy Monday ahead with dentist, meetings, and podcast recording.",
+    "currentStatus": "Sun 5/3 8:00am ET. Sunday morning. Dog show at 3pm today. Busy Monday ahead with dentist, meetings, and podcast recording.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   },
   {
     "id": "my-agents",
@@ -75,8 +75,8 @@
     "title": "My Agents",
     "status": "active",
     "section": "Operations",
-    "currentStatus": "Sat 5/2 10:00pm ET. All systems operational. Weekend dashboard refresh completed at 10pm.",
+    "currentStatus": "Sun 5/3 8:00am ET. All systems operational. Weekend dashboard refresh completed.",
     "alert": null,
-    "updated": "2026-05-02"
+    "updated": "2026-05-03"
   }
 ]
