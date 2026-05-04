@@ -53,12 +53,12 @@
   {
     "name": "Zurp",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 3:00pm ET. Transaction bonus plan meeting happening now (3:30pm).",
+    "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
     "alert": null,
     "recentActivity": [
       {
         "date": "5/4",
-        "text": "📅 3:00pm: Transaction bonus plan meeting starting at 3:30pm"
+        "text": "📅 4:47pm: Troy updated - Transaction Bonus Plan → Fri 5/8 2:30pm"
       },
       {
         "date": "5/4",
@@ -71,8 +71,16 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Mon 5/4 3:30pm",
-        "event": "Finalize Transaction Bonus Plan"
+        "date": "Tue 5/5 1:00pm",
+        "event": "Zurp Check-In"
+      },
+      {
+        "date": "Tue 5/5 3:00pm",
+        "event": "YoSharma Check-In"
+      },
+      {
+        "date": "Fri 5/8 2:30pm",
+        "event": "Finalize Transaction Bonus Plan (Drive Link)"
       }
     ],
     "decisions": [
@@ -85,8 +93,8 @@
         "text": "Venue selection needs to finalize this week."
       }
     ],
-    "updated": "2026-05-04T19:00:00Z",
-    "lastUpdated": "2026-05-04T19:00:00Z",
+    "updated": "2026-05-04T21:00:00Z",
+    "lastUpdated": "2026-05-04T21:00:00Z",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
     "people": [],
     "links": [],
@@ -111,39 +119,27 @@
   },
   {
     "name": "Pigeon House Records",
-    "status": "attention",
-    "currentStatus": "Thu 4/30 5:00pm ET. Tonight's \"Finalize Never Come Back\" hold is 9:15-9:45pm. Nik still needsAction; Minul organized it and Troy is invited. May 20 remains the finalization deadline for a May 22 release.",
-    "alert": "Finalize Never Come Back tonight 9:15pm",
+    "status": "on-track",
+    "currentStatus": "Mon 5/4 5:00pm ET. Production work progressing. After Ours Sync scheduled Tue 5/5 2pm.",
+    "alert": null,
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "📅 5:00pm refresh: Finalize Never Come Back is tonight 9:15-9:45pm; Nik needsAction, Minul organizer, Troy invited."
+        "date": "5/4",
+        "text": "🎵 Production continuing on schedule"
       },
       {
         "date": "4/30",
-        "text": "🔥 3:00pm refresh: Never Coming Back deadline May 20 for May 22 release; ad spend underperformed and social staffing reset under discussion."
-      },
-      {
-        "date": "4/30",
-        "text": "🔕 1:01pm refresh: no AO/Pigeon House calendar, Slack, or Fireflies updates; Manus Spotify/site rebuild remains latest signal."
-      },
-      {
-        "date": "4/30",
-        "text": "🔕 12:06pm refresh: no AO/Pigeon House calendar or Fireflies updates; Manus Spotify/site rebuild remains latest signal."
-      },
-      {
-        "date": "4/30",
-        "text": "🔎 11:00am refresh: no AO/Pigeon House events in next 48h; no newer Fireflies AO transcript."
+        "text": "🔥 3:00pm refresh: Never Coming Back deadline May 20 for May 22 release"
       }
     ],
     "upcomingEvents": [
       {
-        "date": "Thu 4/30 9:15-9:45pm",
-        "text": "Finalize Never Come Back"
+        "date": "Tue 5/5 2:00pm",
+        "text": "🎧 After Ours Sync"
       }
     ],
-    "updated": "2026-04-30T21:00:00Z",
-    "lastUpdated": "2026-04-30T21:00:00Z",
+    "updated": "2026-05-04T21:00:00Z",
+    "lastUpdated": "2026-05-04T21:00:00Z",
     "desc": "Music label and release operations for After Ours.",
     "people": [],
     "links": [],
@@ -168,7 +164,7 @@
   {
     "name": "After Ours",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 3:00pm ET. Production work progressing. Studio sessions active.",
+    "currentStatus": "Mon 5/4 5:00pm ET. Production work progressing. After Ours Sync scheduled Tue 5/5 2pm.",
     "alert": null,
     "recentActivity": [
       {
@@ -178,20 +174,21 @@
       {
         "date": "4/30",
         "text": "📥 9:04am Manus: \"Spotify Numbers Update and Site Rebuild for After Ours\" moved from queue to processing."
-      },
-      {
-        "date": "4/29",
-        "text": "🎵 6:01pm calendar check: AO 5-6pm block wrapping; 7-10pm studio next; Finalize Never Come Back 9:15pm still needsAction for Nik."
       }
     ],
-    "upcomingEvents": [],
-    "updated": "2026-04-30T17:01:00Z",
-    "lastUpdated": "2026-04-30T17:01:00Z",
+    "upcomingEvents": [
+      {
+        "date": "Tue 5/5 2:00pm",
+        "text": "🎧 After Ours Sync"
+      }
+    ],
+    "updated": "2026-05-04T21:00:00Z",
+    "lastUpdated": "2026-05-04T21:00:00Z",
     "desc": "After Ours music project, site, content, and release operations.",
     "people": [],
     "links": [],
     "decisions": [],
-    "needsAttention": "Capture AO studio/finalization outputs after tonight. Confirm whether 4/28 AO Sync happened off-Fireflies."
+    "needsAttention": null
   },
   {
     "name": "Limited Supply Podcast",
@@ -235,7 +232,7 @@
   {
     "name": "Newsletter / Workweek",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 11:00am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May).",
+    "currentStatus": "Mon 5/4 5:00pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Workweek x Nik Sharma tomorrow 1:30pm.",
     "alert": null,
     "updated": "2026-04-30T21:00:00Z",
     "desc": "Limited Supply newsletter and Workweek operating cadence.",
@@ -267,7 +264,11 @@
     "needsAttention": null,
     "upcomingEvents": [
       {
-        "date": "Sun 5/3",
+        "date": "Tue 5/5 1:30pm",
+        "event": "Workweek x Nik Sharma"
+      },
+      {
+        "date": "Sun 5/10",
         "event": "Next Limited Supply send"
       }
     ]
@@ -380,94 +381,78 @@
   },
   {
     "name": "Today & This Week",
-    "status": "attention",
-    "currentStatus": "Thu 4/30 5:00pm ET: Chiro remains live until 6pm. Tonight: Finalize Never Come Back 9:15-9:45pm, Nik needsAction. Tomorrow: Flexpower 7:30am, Check-In 1pm, Rolling Ventures TB 1:30pm, MentorPass hold 2-6pm.",
-    "alert": "Chiro until 6pm • AO finalize tonight • Flexpower/RV tomorrow",
+    "status": "on-track",
+    "currentStatus": "Mon 5/4 5:00pm ET. Today complete. Tomorrow: Full schedule starting 8am (Oceans Post, Flexpower check, Formyhair, Zurp Check-In, Workweek, After Ours, YoSharma). Package at front desk.",
+    "alert": null,
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "📅 5:00pm refresh: Chiro until 6pm; Finalize Never Come Back tonight 9:15pm; Friday Flexpower 7:30am + RV TB 1:30pm."
+        "date": "5/4",
+        "text": "📦 Package at front desk (received 4:39pm)"
       },
       {
-        "date": "4/30",
-        "text": "📅 3:00pm refresh: Bill live, SUPR 3:30, Chiro 4-6; Friday Flexpower 7:30am + RV TB 1:30pm."
-      },
-      {
-        "date": "4/30",
-        "text": "📅 1:01pm all-pages calendar: 20 Nik events in next 48h; Santi live now, YoSharma/Ecom/Macra/Bill/SUPR/Chiro stacked through 6pm; Fri Flexpower 7:30 + RV TB 1:30."
-      },
-      {
-        "date": "4/30",
-        "text": "📅 12:06pm all-pages calendar: 20 Nik events in next 48h; Macra now 2:30pm, then Bill/SUPR/Chiro; Fri Flexpower 7:30 + RV TB 1:30."
-      },
-      {
-        "date": "4/30",
-        "text": "📅 11:00am all-pages calendar: 20 Nik events in next 48h; remaining today starts 1pm and tomorrow includes Flexpower 7:30 + RV TB 1:30."
+        "date": "5/4",
+        "text": "✅ Today complete: Check-In, meetings, calls wrapped"
       }
     ],
     "upcomingEvents": [
       {
-        "date": "Thu 4/30 until 6:00pm",
-        "text": "Chiro"
+        "date": "Tue 5/5 8:00am",
+        "text": "🔔 Oceans Post"
       },
       {
-        "date": "Thu 4/30 9:15-9:45pm",
-        "text": "Finalize Never Come Back"
+        "date": "Tue 5/5 8:30am",
+        "text": "🔔 Check if Dylan / Flexpower got back"
       },
       {
-        "date": "Fri 5/1 7:30am",
-        "text": "Text Dylan / Flexpower if no reply"
+        "date": "Tue 5/5 10:45am",
+        "text": "Formyhair"
       },
       {
-        "date": "Fri 5/1 1:00pm",
-        "text": "Check-In"
+        "date": "Tue 5/5 1:00pm",
+        "text": "Zurp Check-In"
       },
       {
-        "date": "Fri 5/1 1:30pm",
-        "text": "Rolling Ventures TB"
+        "date": "Tue 5/5 1:30pm",
+        "text": "Workweek x Nik Sharma"
       },
       {
-        "date": "Fri 5/1 2:00-6:00pm",
-        "text": "MentorPass Hold"
+        "date": "Tue 5/5 2:00pm",
+        "text": "🎧 After Ours Sync"
+      },
+      {
+        "date": "Tue 5/5 3:00pm",
+        "text": "YoSharma Check-In"
       }
     ],
-    "updated": "2026-04-30T21:00:00Z",
-    "lastUpdated": "2026-04-30T21:00:00Z",
+    "updated": "2026-05-04T21:00:00Z",
+    "lastUpdated": "2026-05-04T21:00:00Z",
     "desc": "Calendar-driven near-term operating view.",
     "people": [],
     "links": [],
     "decisions": [],
-    "needsAttention": "Time-box today's stacked 1-4pm commitments and keep tomorrow's Flexpower/RV reminders visible."
+    "needsAttention": null
   },
   {
     "name": "My Agents",
     "status": "active",
-    "currentStatus": "Thu 4/30 5:00pm ET. Pulled Calendar/Gmail/Slack/Fireflies. Net-new: tonight's AO finalize hold confirmed; no newer Fireflies transcript after Macra/Ecom/YoSharma; #nik-maruchan question remains open; Slash sponsor invoice/DocuSign and UpPromote pitch are the inbox items.",
+    "currentStatus": "Mon 5/4 5:00pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "🤖 5:00pm refresh: updated dashboards from Calendar/Gmail/Slack/Fireflies; no new Fireflies after 3pm set."
+        "date": "5/4",
+        "text": "🤖 5:00pm: Dashboard refresh cron executing"
       },
       {
-        "date": "4/30",
-        "text": "🤖 3:00pm refresh: updated dashboards from calendar/gmail/slack/fireflies; three new Fireflies transcripts landed."
+        "date": "5/4",
+        "text": "🤖 3:00pm: Dashboard refresh completed"
       },
       {
-        "date": "4/30",
-        "text": "🔄 1:01pm refresh: pulled nik/jet calendar all-pages, unread Gmail, 24 live Slack priority channels via current IDs, and latest Fireflies transcripts; Slack had no project messages since noon and Fireflies latest remains Highbeam 4/29 / Macra 4/28."
-      },
-      {
-        "date": "4/30",
-        "text": "🤖 12:06pm refresh completed: calendar all-pages, Gmail unread, Slack priority channels, and Fireflies recent transcripts pulled; no Slack errors beyond missing nik-proximity."
-      },
-      {
-        "date": "4/30",
-        "text": "🔄 11:00am refresh: Calendar all-pages, Gmail unread, 29 Slack channels, Tatari thread, and Fireflies latest transcripts checked; dashboards updated."
+        "date": "5/4",
+        "text": "🤖 1:01pm: Dashboard refresh completed"
       }
     ],
-    "updated": "2026-04-30T21:00:00Z",
-    "lastUpdated": "2026-04-30T21:00:00Z",
+    "updated": "2026-05-04T21:00:00Z",
+    "lastUpdated": "2026-05-04T21:00:00Z",
     "desc": "Agent/system refresh and automation health.",
     "people": [],
     "links": [],
