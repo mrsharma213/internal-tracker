@@ -5,9 +5,9 @@
     "title": "Zurp",
     "status": "on-track",
     "section": "Companies",
-    "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
+    "currentStatus": "Mon 5/4 9:02am ET. Transaction bonus plan meeting today at 3:30pm.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "after-ours",
@@ -15,9 +15,9 @@
     "title": "After Ours",
     "status": "on-track",
     "section": "Media & Content",
-    "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Production work progressing on schedule.",
+    "currentStatus": "Mon 5/4 9:02am ET. Production work progressing on schedule.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "limited-supply",
@@ -25,9 +25,9 @@
     "title": "Limited Supply Podcast",
     "status": "on-track",
     "section": "Media & Content",
-    "currentStatus": "Sun 5/3 10:00pm ET. Recording sessions scheduled for tomorrow (Mon) 4:30pm & 7pm.",
+    "currentStatus": "Mon 5/4 9:02am ET. Recording sessions scheduled today 4:30pm & 7pm.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "newsletter",
@@ -35,9 +35,9 @@
     "title": "Newsletter / Workweek",
     "status": "on-track",
     "section": "Media & Content",
-    "currentStatus": "Sun 5/3 10:00pm ET. Weekly send complete. Next edition: Sun 5/10.",
+    "currentStatus": "Mon 5/4 9:02am ET. Weekly send complete. Next edition: Sun 5/10.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "brand-consulting",
@@ -45,9 +45,9 @@
     "title": "Brand Consulting",
     "status": "on-track",
     "section": "Brand Consulting",
-    "currentStatus": "Sun 5/3 10:00pm ET. Client work continuing. Love Wellness Mother's Day campaign active (final call emails sent).",
+    "currentStatus": "Mon 5/4 9:02am ET. Client work continuing. Climatic x Sharma Brands thread active.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "ecom-founders",
@@ -55,9 +55,9 @@
     "title": "Ecom Founders",
     "status": "on-track",
     "section": "Brand Consulting",
-    "currentStatus": "Sun 5/3 10:00pm ET. Event planning and sponsor coordination continuing.",
+    "currentStatus": "Mon 5/4 9:02am ET. Event planning and sponsor coordination continuing.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "travel",
@@ -65,9 +65,9 @@
     "title": "Today & This Week",
     "status": "on-track",
     "section": "Nik Sharma — Personal",
-    "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Busy Monday: gym, dentist, Zagged All Hands, IRS call, Zurp meeting, podcast recording.",
+    "currentStatus": "Mon 5/4 9:02am ET. Busy Monday ahead: Fort at 10am, Zagged All Hands at 2pm, IRS call at 2:30pm, Zurp meeting at 3:30pm.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   },
   {
     "id": "my-agents",
@@ -75,8 +75,8 @@
     "title": "My Agents",
     "status": "active",
     "section": "Operations",
-    "currentStatus": "Sun 5/3 10:00pm ET. All systems operational. Weekend dashboard refresh complete.",
+    "currentStatus": "Mon 5/4 9:02am ET. All systems operational. Morning dashboard refresh complete.",
     "alert": null,
-    "updated": "2026-05-03"
+    "updated": "2026-05-04"
   }
 ]
