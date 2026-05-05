@@ -168,9 +168,21 @@
   {
     "name": "After Ours",
     "status": "on-track",
-    "currentStatus": "Tue 5/5 1:01pm ET. Sync incoming 2pm. Patreon uploads active. May 20 deadline.",
+    "currentStatus": "Tue 5/5 3:00pm ET. Music production with Minul De Silva ongoing. Pigeon House Records activity. NYC electronic music scene engagement.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/5 3:00pm",
+        "text": "🎵 Production work with Minul De Silva ongoing"
+      },
+      {
+        "date": "5/5 2:00pm",
+        "text": "🏠 Pigeon House Records - label operations steady"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "🎧 NYC electronic music scene engagement active"
+      },
       {
         "date": "5/5 1:01pm",
         "text": "🤖 Dashboard refresh"
@@ -186,8 +198,8 @@
         "text": "🎧 After Ours Sync"
       }
     ],
-    "updated": "2026-05-05T17:01:26Z",
-    "lastUpdated": "2026-05-05T17:01:26Z",
+    "updated": "2026-05-05T19:00:00.000Z",
+    "lastUpdated": "2026-05-05T19:00:00.000Z",
     "desc": "After Ours music project, site, content, and release operations.",
     "people": [],
     "links": [],
