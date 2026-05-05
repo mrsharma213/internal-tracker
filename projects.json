@@ -2,16 +2,16 @@
   {
     "name": "STOCKED x Sharma Brands",
     "status": "attention",
-    "currentStatus": "Tue 5/5 9:01am ET. Transaction bonus plan finalization Fri 5/8 2:30pm. Next up: Zurp Check-In 1pm today, YoSharma Check-In 3pm today.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Zurp Check-In 1pm (live), YoSharma Check-In 3pm. Transaction bonus plan finalization Fri 5/8 2:30pm.",
     "alert": null,
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "desc": "Sharma Brands collaboration and stocking/product opportunity tracker.",
     "people": [],
     "links": [],
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "🤖 Dashboard refresh: Confirmed Check-In meetings Tue 1pm & 3pm"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Check-Ins live today"
       },
       {
         "date": "5/4 4:47pm",
@@ -22,17 +22,17 @@
         "text": "✅ Check-In meeting completed"
       }
     ],
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Maruchan x Nik Sharma",
     "status": "attention",
-    "currentStatus": "Tue 5/5 9:01am ET. Patreon track uploads active (multiple unreleased IDs queued). After Ours Sync scheduled today 2pm. Production work progressing. May 20 deadline for May 22 release.",
+    "currentStatus": "Tue 5/5 1:01pm ET. After Ours Sync incoming 2pm. Patreon track uploads active. May 20 deadline for May 22 release.",
     "alert": "Katelyn need-state search-volume tool question still open",
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "📅 After Ours Sync scheduled today 2pm"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: After Ours Sync prep"
       },
       {
         "date": "5/4 11:00pm",
@@ -44,8 +44,8 @@
       }
     ],
     "upcomingEvents": [],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Maruchan strategy/content engagement with Nik.",
     "people": [],
     "links": [],
@@ -60,12 +60,12 @@
   {
     "name": "Zurp",
     "status": "on-track",
-    "currentStatus": "Tue 5/5 9:01am ET. Next dinner: Wed 5/6 (confirm today). Last dinner Wed 4/29 wrapped.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Check-In 1pm (starting), YoSharma 3pm. Transaction bonus finalization Fri 5/8 2:30pm.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/5 9:01am",
-        "text": "🍽️ Confirm Chef Trey for tomorrow Wed 5/6"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh - meetings live"
       },
       {
         "date": "4/29",
@@ -96,8 +96,8 @@
         "text": "Venue selection needs to finalize this week."
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
     "people": [],
     "links": [],
@@ -106,29 +106,29 @@
   {
     "name": "Authentiq",
     "status": "active",
-    "currentStatus": "Thu 4/30 5:00pm ET. YoSharma transcript still points to chip-auth as the quick-launch priority while backend finalizes. No newer Slack/email signal in the 3-5pm scan.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Chip-auth quick launch priority. No new Slack/email signal.",
     "alert": "Chip-auth quick-launch priority",
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "desc": "NFC business cards and productization workstream.",
     "people": [],
     "links": [],
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "🟡 5:00pm refresh: no new Authentiq signal; chip-auth quick launch remains priority."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Chip-auth priority maintained"
       }
     ],
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Pigeon House Records",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 5:00pm ET. Production work progressing. After Ours Sync scheduled Tue 5/5 2pm.",
+    "currentStatus": "Tue 5/5 1:01pm ET. After Ours Sync incoming 2pm. Production on track, May 20 deadline.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/4",
-        "text": "🎵 Production continuing on schedule"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Sync incoming 2pm"
       },
       {
         "date": "4/30",
@@ -141,8 +141,8 @@
         "text": "🎧 After Ours Sync"
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Music label and release operations for After Ours.",
     "people": [],
     "links": [],
@@ -159,21 +159,21 @@
     "status": "active",
     "currentStatus": "LIVE $5 paid product - '$5 Mini Growth Audit by the Sharma Brands playbook'. Shipped today (4/25). Pay-first → generate flow. Stripe live (acct Sharma Brands Inc). Watching for first organic conversions.",
     "alert": null,
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "desc": "Nik.co revenue/product site for roast workstream.",
     "people": [],
     "links": [],
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "After Ours",
     "status": "on-track",
-    "currentStatus": "Tue 5/5 11:00am ET. Patreon uploads active. Sync scheduled Tue 5/5 2pm.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Sync incoming 2pm. Patreon uploads active. May 20 deadline.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/5 11:00am",
-        "text": "🎵 Dashboard refresh"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh"
       },
       {
         "date": "5/4 11:00pm",
@@ -186,8 +186,8 @@
         "text": "🎧 After Ours Sync"
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "After Ours music project, site, content, and release operations.",
     "people": [],
     "links": [],
@@ -197,12 +197,12 @@
   {
     "name": "Limited Supply Podcast",
     "status": "active",
-    "currentStatus": "Thu 4/30 1:01pm ET. Workweek email \"How HexClad built a billion-dollar brand\" landed at noon and remains the latest newsletter signal. No new #nik-workweek/#limitedsupply_hq Slack activity since noon; V&S Playbook remains shipped and next Sunday send is May 3.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Workweek x Nik Sharma 1:30pm. Limited Supply Recording 4pm.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "🎙️ 5:00pm refresh: no new #limitedsupply_hq activity or podcast escalation in the Slack/Gmail pull."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh"
       },
       {
         "date": "4/30",
@@ -227,8 +227,8 @@
         "event": "Next Limited Supply send"
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Limited Supply podcast production and guest/content pipeline.",
     "people": [],
     "links": []
@@ -236,16 +236,16 @@
   {
     "name": "Newsletter / Workweek",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 5:00pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Workweek x Nik Sharma tomorrow 1:30pm.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Next send: Sun 5/10. Subscriber base: 100K+. Strong LinkedIn performance (40K+ weekly).",
     "alert": null,
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "desc": "Limited Supply newsletter and Workweek operating cadence.",
     "people": [],
     "links": [],
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "📧 5:00pm refresh: no new #nik-workweek project activity; today's Workweek email remains latest newsletter signal."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh"
       },
       {
         "date": "4/30",
@@ -264,7 +264,7 @@
         "text": "💬 9:59am Slack: Workweek confirmed today's newsletter is scheduled for 12pm ET."
       }
     ],
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "needsAttention": null,
     "upcomingEvents": [
       {
@@ -284,8 +284,8 @@
     "alert": "Chiro until 6pm • UpPromote pitch non-urgent",
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "📧 5:00pm refresh: no client escalation; CreatorWorks/UpPromote paid-partnership pitch arrived at 5pm, non-urgent."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh"
       },
       {
         "date": "4/30",
@@ -316,8 +316,8 @@
         "text": "Ecom Founders event focus: drop smaller gatherings, concentrate on AI Summit + Q4 Summit."
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Consulting/client inbox, pitches, and active advisory work.",
     "people": [],
     "links": [],
@@ -326,12 +326,12 @@
   {
     "name": "Ecom Founders",
     "status": "attention",
-    "currentStatus": "Thu 4/30 5:00pm ET. Slash AI Summit Gold sponsorship is in execution: latest thread says $75K invoice is attached and DocuSign contract is in Slash inbox ready for signature. Exclusivity language and Q4 Gold outreach remain gating.",
+    "currentStatus": "Tue 5/5 1:01pm ET. AI Summit & Q4 Summit planning active. Sponsor partnerships progressing. Rameez coordinating Slash.com partnership.",
     "alert": "Slash invoice/DocuSign • Exclusivity language",
     "recentActivity": [
       {
-        "date": "4/30",
-        "text": "💰 5:00pm refresh: Slash AI Summit Gold $75K invoice/DocuSign thread is live; track signature and sponsor execution."
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard refresh: Summit planning on track"
       },
       {
         "date": "4/30",
@@ -366,8 +366,8 @@
         "text": "Clarify finance-sector exclusivity language before sponsor comms."
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Ecom Founders event sponsorship and partner operations.",
     "people": [],
     "links": [],
@@ -378,21 +378,21 @@
     "status": "on-track",
     "currentStatus": "",
     "alert": null,
-    "updated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
     "desc": "Personal investment/admin items and non-fund deal flow.",
     "people": [],
     "links": [],
-    "lastUpdated": "2026-05-05T15:00:00Z"
+    "lastUpdated": "2026-05-05T17:01:26Z"
   },
   {
     "name": "Today & This Week",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 5:00pm ET. Today complete. Tomorrow: Full schedule starting 8am (Oceans Post, Flexpower check, Formyhair, Zurp Check-In, Workweek, After Ours, YoSharma). Package at front desk.",
+    "currentStatus": "Tue 5/5 1:01pm ET. Afternoon momentum: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Vinay/Limited Supply (4pm), Extra Time (5pm), Travel (5:30pm).",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/4",
-        "text": "📦 Package at front desk (received 4:39pm)"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard auto-refresh cron executed"
       },
       {
         "date": "5/4",
@@ -429,8 +429,8 @@
         "text": "YoSharma Check-In"
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Calendar-driven near-term operating view.",
     "people": [],
     "links": [],
@@ -440,12 +440,12 @@
   {
     "name": "My Agents",
     "status": "active",
-    "currentStatus": "Mon 5/4 5:00pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
+    "currentStatus": "Tue 5/5 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/4",
-        "text": "🤖 5:00pm: Dashboard refresh cron executing"
+        "date": "5/5 1:01pm",
+        "text": "🤖 Dashboard auto-refresh cron started"
       },
       {
         "date": "5/4",
@@ -456,8 +456,8 @@
         "text": "🤖 1:01pm: Dashboard refresh completed"
       }
     ],
-    "updated": "2026-05-05T15:00:00Z",
-    "lastUpdated": "2026-05-05T15:00:00Z",
+    "updated": "2026-05-05T17:01:26Z",
+    "lastUpdated": "2026-05-05T17:01:26Z",
     "desc": "Agent/system refresh and automation health.",
     "people": [],
     "links": [],
