@@ -2,7 +2,7 @@
   {
     "name": "STOCKED x Sharma Brands",
     "status": "attention",
-    "currentStatus": "Thu 5/7 7:00pm ET. Calendar: Work on Zurp Machines (3:30-4pm), Tatari x Nik AI Summit (5:30-6pm), MentorPass (6:30-7pm), Grapevine Acquisition (6:30-8pm), Dinner (7:30-8pm), Gospel Battery grab (10-10:30pm). Fresh data pull complete.",
+    "currentStatus": "Thu 5/7 1:01pm ET. Calendar: Ecom Founders Programming 3-3:30pm, Prep 4-4:30pm, Tatari x Nik (AI Summit) 4:30-5pm, MentorPass 5:30-6pm, Grapevine Acquisition 6:30-8pm. Email: Unread from Troy, Workweek newsletter. Fresh data pull complete.",
     "alert": null,
     "updated": "2026-05-07",
     "desc": "Sharma Brands collaboration and stocking/product opportunity tracker.",
@@ -53,17 +53,9 @@
   {
     "name": "Zurp",
     "status": "on-track",
-    "currentStatus": "Thu 5/7 7:00pm ET. Work on Zurp Machines (3:30-4pm), followed by multiple evening commitments. Transaction Bonus Plan finalization: Fri 5/8 2:30pm.",
+    "currentStatus": "Wed 5/6 5:00pm ET. Calendar: Fort (10-11am), Zurp Supplier Call + iamctic (11-11:30am), Climatic x Nik (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm). Transaction Bonus Plan: Fri 5/8 2:30pm.",
     "alert": null,
     "recentActivity": [
-      {
-        "date": "5/7 7:00pm",
-        "text": "🤖 Dashboard refresh (Thu evening cron:4336b229)"
-      },
-      {
-        "date": "5/7 3:30pm",
-        "text": "📅 Work on Zurp Machines session"
-      },
       {
         "date": "5/6",
         "text": "🤖 Dashboard refresh (Wed morning)"
