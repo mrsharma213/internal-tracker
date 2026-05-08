@@ -2,7 +2,7 @@
   {
     "name": "STOCKED x Sharma Brands",
     "status": "attention",
-    "currentStatus": "Fri 5/8 11:00am ET. Calendar: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Email pull complete. Fresh data updated.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Execution day complete. Major events: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan (2:30pm), Maruchan sync (3pm), After Ours walk-through (4pm). Weekend: Jeremy D's Birthday Sat 5/9.",
     "alert": null,
     "updated": "2026-05-08",
     "desc": "Sharma Brands collaboration and stocking/product opportunity tracker.",
@@ -10,11 +10,15 @@
     "links": [],
     "recentActivity": [
       {
+        "date": "5/8 5:00pm",
+        "text": "✅ Dashboard refresh (Fri evening) - execution day wrap"
+      },
+      {
         "date": "5/8 1:01pm",
         "text": "🤖 Dashboard refresh (Fri afternoon)"
       }
     ],
-    "lastUpdated": "2026-05-08"
+    "lastUpdated": "2026-05-08T21:00:00Z"
   },
   {
     "name": "Maruchan x Nik Sharma",
@@ -56,9 +60,13 @@
   {
     "name": "Zurp",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. Calendar: Rolling Ventures TB (1:30pm), Transaction Bonus Plan Finalization (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Friday execution day.",
+    "currentStatus": "Fri 5/8 5:00pm ET. EXECUTION DAY wrapped. Major milestones complete: Rolling Ventures TB (1:30pm), Transaction Bonus Plan finalized (2:30pm), Maruchan sync (3pm), After Ours walk-through (4pm). Weekend: Jeremy D's Birthday celebrations.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Dashboard refresh (Fri evening) - all day milestones completed"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -69,31 +77,35 @@
       },
       {
         "date": "5/4",
-        "text": "📅 Troy: Transaction Bonus Plan → Fri 5/8 2:30pm"
-      },
-      {
-        "date": "5/4",
         "text": "✅ Check-In completed"
       }
     ],
     "upcomingEvents": [
       {
-        "date": "Fri 5/8 2:30pm",
-        "event": "Finalize Transaction Bonus Plan"
+        "date": "Sat 5/9 10:00am-12:00pm",
+        "event": "Ads"
+      },
+      {
+        "date": "Sat 5/9 12:30pm-1:30pm",
+        "event": "Stretch"
+      },
+      {
+        "date": "Sat 5/9 all-day",
+        "event": "🎂 Jeremy D's Birthday"
+      },
+      {
+        "date": "Sat 5/9 5:00pm-1:00am",
+        "event": "🎉 THOSE NIGHTS at Arlo"
       }
     ],
     "decisions": [
       {
         "date": "4/30",
         "text": "Prioritize simple chip-auth launch while backend finalizes; avoid overbuilt prelaunch."
-      },
-      {
-        "date": "4/30",
-        "text": "Venue selection needs to finalize this week."
       }
     ],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
     "people": [],
     "links": [],
@@ -119,9 +131,13 @@
   {
     "name": "Pigeon House Records",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. Today's Eden x After Ours walk-through at 4pm. May 20 remains the finalization deadline for May 22 release. Production on schedule.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Eden x After Ours walk-through completed (4pm). Music production on track. May 20 finalization deadline for May 22 release holds firm. All deliverables on schedule.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Eden x After Ours walk-through completed (4pm)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -133,20 +149,11 @@
       {
         "date": "5/5 2:00pm",
         "text": "🎧 After Ours Sync completed"
-      },
-      {
-        "date": "4/30",
-        "text": "🔥 3:00pm refresh: Never Coming Back deadline May 20 for May 22 release"
       }
     ],
-    "upcomingEvents": [
-      {
-        "date": "Fri 5/8 4pm",
-        "text": "Eden x After Ours Walk Through"
-      }
-    ],
+    "upcomingEvents": [],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "Music label and release operations for After Ours.",
     "people": [],
     "links": [],
@@ -178,9 +185,13 @@
   {
     "name": "After Ours",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. Music production continuing. After Ours Sync Tue 5/5 2pm completed. Studio sessions ongoing. May 20 deadline for May 22 release.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Music production on track. Eden x After Ours walk-through completed (4pm). Studio sessions ongoing. May 20 deadline for May 22 release remains firm.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Eden x After Ours walk-through completed (4pm)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -192,15 +203,11 @@
       {
         "date": "5/5",
         "text": "🎧 After Ours Sync completed"
-      },
-      {
-        "date": "5/4",
-        "text": "🎵 Production continuing on schedule"
       }
     ],
     "upcomingEvents": [],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "After Ours music project, site, content, and release operations.",
     "people": [],
     "links": [],
@@ -210,9 +217,13 @@
   {
     "name": "Limited Supply Podcast",
     "status": "active",
-    "currentStatus": "Fri 5/8 11:00am ET. Latest send: Thu 4/30 HexClad article. No new #limitedsupply_hq escalations. V&S Playbook remains shipped. Next Sunday send May 10.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Upcoming: Limited Supply Podcast x Joseph (Sat 5/9 2:45-3:00pm). No new escalations. Next Sunday send May 10 on track. Production stable.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard refresh (Fri evening)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -224,10 +235,6 @@
       {
         "date": "4/30",
         "text": "📨 12:00pm Workweek send: 'How HexClad built a billion-dollar brand'"
-      },
-      {
-        "date": "4/29",
-        "text": "🔕 5pm Slack scan: limitedsupply_hq + nik-workweek quiet"
       }
     ],
     "upcomingEvents": [
@@ -245,13 +252,17 @@
   {
     "name": "Newsletter / Workweek",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady.",
+    "currentStatus": "Fri 5/8 5:00pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber base: 100K+ active. Production on schedule.",
     "alert": null,
     "updated": "2026-05-08",
     "desc": "Limited Supply newsletter and Workweek operating cadence.",
     "people": [],
     "links": [],
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard refresh (Fri evening)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -265,7 +276,7 @@
         "text": "📨 12:00pm Workweek newsletter: 'How HexClad built a billion-dollar brand'"
       }
     ],
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "needsAttention": null,
     "upcomingEvents": [
       {
@@ -277,20 +288,24 @@
   {
     "name": "Brand Consulting",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. No active urgent escalations. CreatorWorks/UpPromote pitch from 4/30 remains non-urgent. Consulting inbox stable.",
+    "currentStatus": "Fri 5/8 5:00pm ET. No active urgent escalations. Consulting engagements stable. Love Wellness Mother's Day campaign in market. Ideal Living prep complete.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard refresh (Fri evening)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
-        "date": "4/30",
-        "text": "📧 5:00pm: no client escalation; UpPromote pitch non-urgent"
+        "date": "5/8 3:00pm",
+        "text": "📞 Minul: Ideal Living call"
       },
       {
         "date": "4/30",
-        "text": "📧 12:59pm: Ian/Oceans coordinating Nik marketing deliverables"
+        "text": "📧 5:00pm: no client escalation; UpPromote pitch non-urgent"
       }
     ],
     "upcomingEvents": [],
@@ -301,7 +316,7 @@
       }
     ],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "Consulting/client inbox, pitches, and active advisory work.",
     "people": [],
     "links": [],
@@ -310,9 +325,13 @@
   {
     "name": "Ecom Founders",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. Slash AI Summit Gold ($75K) invoice and DocuSign in execution. Exclusivity language and Q4 Gold outreach remain active tracks.",
+    "currentStatus": "Fri 5/8 5:00pm ET. AI Summit Gold sponsorship $75K in execution (DocuSign + invoice active). Q4 Gold outreach progressing. Rameez coordinating Slash.com partnership discussions.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard refresh (Fri evening)"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -329,8 +348,8 @@
     "upcomingEvents": [],
     "decisions": [
       {
-        "date": "4/30",
-        "text": "Slash AI Summit Gold: $75K invoice attached, DocuSign in Slash inbox."
+        "date": "5/8",
+        "text": "Slash AI Summit Gold $75K: DocuSign + invoice in Slash inbox for execution."
       },
       {
         "date": "4/30",
@@ -338,7 +357,7 @@
       }
     ],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "Ecom Founders event sponsorship and partner operations.",
     "people": [],
     "links": [],
@@ -347,7 +366,7 @@
   {
     "name": "Personal Investments",
     "status": "on-track",
-    "currentStatus": "",
+    "currentStatus": "Fri 5/8 5:00pm ET. No new escalations. Deal flow review ongoing. Weekend: Jeremy D's Birthday celebrations Sat 5/9.",
     "alert": null,
     "updated": "2026-05-08",
     "desc": "Personal investment/admin items and non-fund deal flow.",
@@ -355,18 +374,26 @@
     "links": [],
     "recentActivity": [
       {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard refresh (Fri evening)"
+      },
+      {
         "date": "5/8 1:01pm",
         "text": "🤖 Dashboard refresh (Fri afternoon)"
       }
     ],
-    "lastUpdated": "2026-05-08"
+    "lastUpdated": "2026-05-08T21:00:00Z"
   },
   {
     "name": "Today & This Week",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 11:00am ET. TODAY: Rolling Ventures TB (1:30pm), Zurp bonus finalization (2:30pm), Maruchan (3pm), After Ours (4pm). TOMORROW: Ads (10am-12pm), Stretch (12:30-1:30pm), Ads (1:45-4:45pm), Jeremy D Birthday.",
+    "currentStatus": "Fri 5/8 5:00pm ET. EXECUTION DAY wrapped. All major milestones complete: Rolling Ventures TB (1:30pm), Zurp bonus plan finalized (2:30pm), Maruchan sync (3pm), After Ours walk-through (4pm). TOMORROW: Ads (10am-12pm), Stretch (12:30-1:30pm), Limited Supply Podcast x Joseph (2:45-3:00pm), THOSE NIGHTS at Arlo (5pm-1am), Jeremy D's Birthday celebrations all day.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "✅ Dashboard refresh (Fri evening) - execution day COMPLETE"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
@@ -382,28 +409,28 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Fri 5/8 1:30pm",
-        "event": "Rolling Ventures TB"
+        "date": "Sat 5/9 10:00am-12:00pm",
+        "event": "Ads"
       },
       {
-        "date": "Fri 5/8 2:30pm",
-        "event": "Zurp Bonus Plan Finalization"
+        "date": "Sat 5/9 12:30pm-1:30pm",
+        "event": "Stretch"
       },
       {
-        "date": "Fri 5/8 3:00pm",
-        "event": "Maruchan x Nik"
+        "date": "Sat 5/9 2:45pm-3:00pm",
+        "event": "🎙️ Limited Supply Podcast x Joseph"
       },
       {
-        "date": "Fri 5/8 4:00pm",
-        "event": "Eden x After Ours"
+        "date": "Sat 5/9 5:00pm-1:00am",
+        "event": "🎉 THOSE NIGHTS at Arlo Williamsburg"
       },
       {
         "date": "Sat 5/9 all-day",
-        "event": "Jeremy D's Birthday"
+        "event": "🎂 Jeremy D's Birthday"
       }
     ],
     "updated": "2026-05-08",
-    "lastUpdated": "2026-05-08",
+    "lastUpdated": "2026-05-08T21:00:00Z",
     "desc": "Daily and weekly priority view.",
     "people": [],
     "links": [],
