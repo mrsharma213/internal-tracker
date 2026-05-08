@@ -2,7 +2,7 @@
   {
     "name": "STOCKED x Sharma Brands",
     "status": "attention",
-    "currentStatus": "Fri 5/8 9:01am ET. Calendar: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Email pull complete. Fresh data updated.",
+    "currentStatus": "Fri 5/8 11:00am ET. Calendar: Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Email pull complete. Fresh data updated.",
     "alert": null,
     "updated": "2026-05-08",
     "desc": "Sharma Brands collaboration and stocking/product opportunity tracker.",
@@ -12,11 +12,11 @@
   {
     "name": "Maruchan x Nik Sharma",
     "status": "attention",
-    "currentStatus": "Fri 5/8 9:01am ET. Last open point from 4/30 still shows Katelyn's need-state search-volume tooling question. No newer Fireflies transcript found. Awaiting resolution.",
+    "currentStatus": "Fri 5/8 11:00am ET. Last open point from 4/30 still shows Katelyn's need-state search-volume tooling question. No newer Fireflies transcript found. Awaiting resolution.",
     "alert": "Katelyn need-state search-volume tool question still open",
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -49,11 +49,11 @@
   {
     "name": "Zurp",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. Calendar: Rolling Ventures TB (1:30pm), Transaction Bonus Plan Finalization (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Friday execution day.",
+    "currentStatus": "Fri 5/8 11:00am ET. Calendar: Rolling Ventures TB (1:30pm), Transaction Bonus Plan Finalization (2:30pm), Maruchan x Nik (3pm), After Ours (4pm). Friday execution day.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -95,7 +95,7 @@
   {
     "name": "Authentiq",
     "status": "active",
-    "currentStatus": "Fri 5/8 9:01am ET. YoSharma transcript still points to chip-auth as the quick-launch priority while backend finalizes. No newer Slack/email signal in this morning's scan.",
+    "currentStatus": "Fri 5/8 11:00am ET. YoSharma transcript still points to chip-auth as the quick-launch priority while backend finalizes. No newer Slack/email signal in this morning's scan.",
     "alert": "Chip-auth quick-launch priority",
     "updated": "2026-05-08",
     "desc": "NFC business cards and productization workstream.",
@@ -103,7 +103,7 @@
     "links": [],
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning): no new signal"
       }
     ],
@@ -112,11 +112,11 @@
   {
     "name": "Pigeon House Records",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. Today's Eden x After Ours walk-through at 4pm. May 20 remains the finalization deadline for May 22 release. Production on schedule.",
+    "currentStatus": "Fri 5/8 11:00am ET. Today's Eden x After Ours walk-through at 4pm. May 20 remains the finalization deadline for May 22 release. Production on schedule.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -164,11 +164,11 @@
   {
     "name": "After Ours",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. Music production continuing. After Ours Sync Tue 5/5 2pm completed. Studio sessions ongoing. May 20 deadline for May 22 release.",
+    "currentStatus": "Fri 5/8 11:00am ET. Music production continuing. After Ours Sync Tue 5/5 2pm completed. Studio sessions ongoing. May 20 deadline for May 22 release.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -196,11 +196,11 @@
   {
     "name": "Limited Supply Podcast",
     "status": "active",
-    "currentStatus": "Fri 5/8 9:01am ET. Latest send: Thu 4/30 HexClad article. No new #limitedsupply_hq escalations. V&S Playbook remains shipped. Next Sunday send May 10.",
+    "currentStatus": "Fri 5/8 11:00am ET. Latest send: Thu 4/30 HexClad article. No new #limitedsupply_hq escalations. V&S Playbook remains shipped. Next Sunday send May 10.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -231,7 +231,7 @@
   {
     "name": "Newsletter / Workweek",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady.",
+    "currentStatus": "Fri 5/8 11:00am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady.",
     "alert": null,
     "updated": "2026-05-08",
     "desc": "Limited Supply newsletter and Workweek operating cadence.",
@@ -239,7 +239,7 @@
     "links": [],
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -263,11 +263,11 @@
   {
     "name": "Brand Consulting",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. No active urgent escalations. CreatorWorks/UpPromote pitch from 4/30 remains non-urgent. Consulting inbox stable.",
+    "currentStatus": "Fri 5/8 11:00am ET. No active urgent escalations. CreatorWorks/UpPromote pitch from 4/30 remains non-urgent. Consulting inbox stable.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -296,11 +296,11 @@
   {
     "name": "Ecom Founders",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. Slash AI Summit Gold ($75K) invoice and DocuSign in execution. Exclusivity language and Q4 Gold outreach remain active tracks.",
+    "currentStatus": "Fri 5/8 11:00am ET. Slash AI Summit Gold ($75K) invoice and DocuSign in execution. Exclusivity language and Q4 Gold outreach remain active tracks.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
@@ -343,11 +343,11 @@
   {
     "name": "Today & This Week",
     "status": "on-track",
-    "currentStatus": "Fri 5/8 9:01am ET. TODAY: Rolling Ventures TB (1:30pm), Zurp bonus finalization (2:30pm), Maruchan (3pm), After Ours (4pm). TOMORROW: Ads (10am-12pm), Stretch (12:30-1:30pm), Ads (1:45-4:45pm), Jeremy D Birthday.",
+    "currentStatus": "Fri 5/8 11:00am ET. TODAY: Rolling Ventures TB (1:30pm), Zurp bonus finalization (2:30pm), Maruchan (3pm), After Ours (4pm). TOMORROW: Ads (10am-12pm), Stretch (12:30-1:30pm), Ads (1:45-4:45pm), Jeremy D Birthday.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/8 9:01am",
+        "date": "5/8 11:00am",
         "text": "🤖 Dashboard refresh (Fri morning)"
       },
       {
